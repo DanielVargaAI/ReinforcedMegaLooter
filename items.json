@@ -1,0 +1,1356 @@
+{
+    "0": {
+        "name": "Totem of Greed",
+        "rarity": 9,
+        "set": [
+            "Essential"
+        ]
+    },
+    "1": {
+        "name": "Ribbon of Fortune",
+        "rarity": 9,
+        "set": [
+            "Essential"
+        ]
+    },
+    "2": {
+        "name": "Poor Man's Path",
+        "rarity": 0,
+        "set": [
+            "Poverty"
+        ]
+    },
+    "3": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "4": {
+        "name": "Wooden Shoes",
+        "rarity": 0,
+        "set": [
+            "Wood"
+        ]
+    },
+    "5": {
+        "name": "Poor Man's Blade",
+        "rarity": 0,
+        "set": [
+            "Poverty"
+        ]
+    },
+    "6": {
+        "name": "Nature's Gift",
+        "rarity": 0,
+        "set": [
+            "Wood"
+        ]
+    },
+    "7": {
+        "name": "Magical Stick",
+        "rarity": 0,
+        "set": [
+            "Wood"
+        ]
+    },
+    "8": {
+        "name": "Training Hammer",
+        "rarity": 0,
+        "set": [
+            "Wood"
+        ]
+    },
+    "9": {
+        "name": "Nature's Collar",
+        "rarity": 0,
+        "set": [
+            "Wood"
+        ]
+    },
+    "10": {
+        "name": "Poor Man's Helmet",
+        "rarity": 0,
+        "set": [
+            "Poverty"
+        ]
+    },
+    "11": {
+        "name": "Training Axe",
+        "rarity": 0,
+        "set": [
+            "Wood"
+        ]
+    },
+    "12": {
+        "name": "Wooden Plates",
+        "rarity": 0,
+        "set": [
+            "Wood"
+        ]
+    },
+    "13": {
+        "name": "Leather Boots",
+        "rarity": 0,
+        "set": [
+            "Mercenary"
+        ]
+    },
+    "14": {
+        "name": "Leather Helmet",
+        "rarity": 0,
+        "set": [
+            "Mercenary"
+        ]
+    },
+    "15": {
+        "name": "Leather Pants",
+        "rarity": 0,
+        "set": [
+            "Mercenary"
+        ]
+    },
+    "16": {
+        "name": "Leather Chestplate",
+        "rarity": 0,
+        "set": [
+            "Mercenary"
+        ]
+    },
+    "17": {
+        "name": "Training Sword",
+        "rarity": 0,
+        "set": [
+            "Wood",
+            "Swiftness"
+        ]
+    },
+    "18": {
+        "name": "Unknown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "19": {
+        "name": "Amulet of life",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "20": {
+        "name": "Starborn Ring",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "21": {
+        "name": "Recruit's Boots",
+        "rarity": 0,
+        "set": [
+            "Scout"
+        ]
+    },
+    "22": {
+        "name": "Keepsake",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "23": {
+        "name": "Recruit's Hood",
+        "rarity": 0,
+        "set": [
+            "Scout"
+        ]
+    },
+    "24": {
+        "name": "Iron Dagger",
+        "rarity": 0,
+        "set": [
+            "Generic",
+            "Swiftness"
+        ]
+    },
+    "25": {
+        "name": "Hunter's Boots",
+        "rarity": 0,
+        "set": [
+            "Hunter"
+        ]
+    },
+    "26": {
+        "name": "Hunter's Hood",
+        "rarity": 0,
+        "set": [
+            "Hunter"
+        ]
+    },
+    "27": {
+        "name": "Recruit's Pants",
+        "rarity": 0,
+        "set": [
+            "Scout"
+        ]
+    },
+    "28": {
+        "name": "Chainmail",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "29": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "30": {
+        "name": "Hunter's Pants",
+        "rarity": 0,
+        "set": [
+            "Hunter"
+        ]
+    },
+    "31": {
+        "name": "Recruit's Cloak",
+        "rarity": 0,
+        "set": [
+            "Scout"
+        ]
+    },
+    "32": {
+        "name": "Hunter's Ring",
+        "rarity": 0,
+        "set": [
+            "Hunter"
+        ]
+    },
+    "33": {
+        "name": "Hunter's Jerkin",
+        "rarity": 0,
+        "set": [
+            "Hunter"
+        ]
+    },
+    "34": {
+        "name": "Crystal Staff",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "35": {
+        "name": "Vitality Ring",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "36": {
+        "name": "Ring of Anger",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "37": {
+        "name": "Marauder's Helmet",
+        "rarity": 0,
+        "set": [
+            "Silver",
+            "Mercenary"
+        ]
+    },
+    "38": {
+        "name": "Silver Ring",
+        "rarity": 0,
+        "set": [
+            "Silver"
+        ]
+    },
+    "39": {
+        "name": "Silver Sabatons",
+        "rarity": 0,
+        "set": [
+            "Silver"
+        ]
+    },
+    "40": {
+        "name": "Silver Helmet",
+        "rarity": 0,
+        "set": [
+            "Silver"
+        ]
+    },
+    "41": {
+        "name": "Life Seeker",
+        "rarity": 0,
+        "set": [
+            "Silver"
+        ]
+    },
+    "42": {
+        "name": "Silver Leggings",
+        "rarity": 0,
+        "set": [
+            "Silver"
+        ]
+    },
+    "43": {
+        "name": "Zephyron's Magical Shoes",
+        "rarity": 0,
+        "set": [
+            "Zephyron"
+        ]
+    },
+    "44": {
+        "name": "Silver Chestplate",
+        "rarity": 0,
+        "set": [
+            "Silver"
+        ]
+    },
+    "54": {
+        "name": "Zephyron's Eye",
+        "rarity": 0,
+        "set": [
+            "Zephyron"
+        ]
+    },
+    "55": {
+        "name": "Zephyron's Magical Ring",
+        "rarity": 0,
+        "set": [
+            "Zephyron"
+        ]
+    },
+    "56": {
+        "name": "Silver Sword",
+        "rarity": 0,
+        "set": [
+            "Silver"
+        ]
+    },
+    "57": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "58": {
+        "name": "Bastolic's Gauntlet",
+        "rarity": 0,
+        "set": [
+            "Bastolic"
+        ]
+    },
+    "59": {
+        "name": "Zephyron's Magical Cloak",
+        "rarity": 0,
+        "set": [
+            "Zephyron"
+        ]
+    },
+    "60": {
+        "name": "Zepohyron's Magical Cap",
+        "rarity": 0,
+        "set": [
+            "Zephyron"
+        ]
+    },
+    "61": {
+        "name": "Zephyron's Magical Staff",
+        "rarity": 0,
+        "set": [
+            "Zephyron"
+        ]
+    },
+    "62": {
+        "name": "Believer's Locket",
+        "rarity": 0,
+        "set": [
+            "Silver"
+        ]
+    },
+    "63": {
+        "name": "Silver Axe",
+        "rarity": 0,
+        "set": [
+            "Silver",
+            "Swiftness"
+        ]
+    },
+    "64": {
+        "name": "Golden Dagger",
+        "rarity": 0,
+        "set": [
+            "Golden",
+            "Swiftness"
+        ]
+    },
+    "65": {
+        "name": "Golden Sabatons",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "66": {
+        "name": "Arcanum Shoes",
+        "rarity": 0,
+        "set": [
+            "Arcanum"
+        ]
+    },
+    "67": {
+        "name": "Golden Leggings",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "68": {
+        "name": "Tome of Arcanum",
+        "rarity": 0,
+        "set": [
+            "Essential"
+        ]
+    },
+    "69": {
+        "name": "Arcanum Robe",
+        "rarity": 0,
+        "set": [
+            "Arcanum"
+        ]
+    },
+    "70": {
+        "name": "Golden Chestplate",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "71": {
+        "name": "Precious Ring",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "72": {
+        "name": "Magic Wand",
+        "rarity": 0,
+        "set": [
+            "Darkness",
+            "Wood"
+        ]
+    },
+    "73": {
+        "name": "Golden Crown",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "74": {
+        "name": "Golden Warden",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "75": {
+        "name": "Greed's Grasp",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "76": {
+        "name": "Golden Sword",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "77": {
+        "name": "Omni Ring",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "78": {
+        "name": "Unknown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "79": {
+        "name": "Warrior's Sabatons",
+        "rarity": 0,
+        "set": [
+            "Warrior"
+        ]
+    },
+    "80": {
+        "name": "Hunger Blade",
+        "rarity": 0,
+        "set": [
+            "Flesh",
+            "Swiftness"
+        ]
+    },
+    "81": {
+        "name": "Warrior's Helmet",
+        "rarity": 0,
+        "set": [
+            "Warrior"
+        ]
+    },
+    "82": {
+        "name": "Famished Blade",
+        "rarity": 0,
+        "set": [
+            "Flesh"
+        ]
+    },
+    "83": {
+        "name": "Unchained Gauntlet",
+        "rarity": 0,
+        "set": [
+            "Unchained"
+        ]
+    },
+    "84": {
+        "name": "Blackthorn Sabatons",
+        "rarity": 0,
+        "set": [
+            "Blackthorn"
+        ]
+    },
+    "85": {
+        "name": "Warrior's Leggings",
+        "rarity": 0,
+        "set": [
+            "Warrior"
+        ]
+    },
+    "86": {
+        "name": "Blackthorn Leggings",
+        "rarity": 0,
+        "set": [
+            "Blackthorn"
+        ]
+    },
+    "87": {
+        "name": "Warrior's Chestplate",
+        "rarity": 0,
+        "set": [
+            "Warrior"
+        ]
+    },
+    "88": {
+        "name": "Warrior's War Hammer",
+        "rarity": 0,
+        "set": [
+            "Warrior"
+        ]
+    },
+    "89": {
+        "name": "Blackthorn Chestplate",
+        "rarity": 0,
+        "set": [
+            "Blackthorn"
+        ]
+    },
+    "90": {
+        "name": "Unknown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "91": {
+        "name": "HySword",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "92": {
+        "name": "Pantaloons of Greatness",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "93": {
+        "name": "Warrior's Ring",
+        "rarity": 0,
+        "set": [
+            "Warrior"
+        ]
+    },
+    "94": {
+        "name": "Blackthorn Crown",
+        "rarity": 0,
+        "set": [
+            "Blackthorn"
+        ]
+    },
+    "95": {
+        "name": "Orion's Core",
+        "rarity": 0,
+        "set": [
+            "Orion"
+        ]
+    },
+    "96": {
+        "name": "Orion's Path",
+        "rarity": 0,
+        "set": [
+            "Orion"
+        ]
+    },
+    "97": {
+        "name": "Orion's Destiny",
+        "rarity": 0,
+        "set": [
+            "Orion"
+        ]
+    },
+    "98": {
+        "name": "Orion's Leggings",
+        "rarity": 0,
+        "set": [
+            "Orion"
+        ]
+    },
+    "108": {
+        "name": "Orion's Sanguine Salvation",
+        "rarity": 0,
+        "set": [
+            "Orion"
+        ]
+    },
+    "109": {
+        "name": "Orion's Heart",
+        "rarity": 0,
+        "set": [
+            "Orion"
+        ]
+    },
+    "110": {
+        "name": "Orion's Rage",
+        "rarity": 0,
+        "set": [
+            "Orion"
+        ]
+    },
+    "111": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "112": {
+        "name": "Living Boots",
+        "rarity": 0,
+        "set": [
+            "Flesh"
+        ]
+    },
+    "113": {
+        "name": "Living Helmet",
+        "rarity": 0,
+        "set": [
+            "Flesh"
+        ]
+    },
+    "114": {
+        "name": "Living Leggings",
+        "rarity": 0,
+        "set": [
+            "Flesh"
+        ]
+    },
+    "115": {
+        "name": "Living Chestplate",
+        "rarity": 0,
+        "set": [
+            "Flesh"
+        ]
+    },
+    "116": {
+        "name": "Berserker's Axe",
+        "rarity": 0,
+        "set": [
+            "Berserker"
+        ]
+    },
+    "117": {
+        "name": "Berserker's Helmet",
+        "rarity": 0,
+        "set": [
+            "Berserker"
+        ]
+    },
+    "118": {
+        "name": "Eldrid's Ring",
+        "rarity": 0,
+        "set": [
+            "Flesh"
+        ]
+    },
+    "119": {
+        "name": "Ring of Power",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "120": {
+        "name": "Thunderiders",
+        "rarity": 0,
+        "set": [
+            "Thunder"
+        ]
+    },
+    "121": {
+        "name": "Thunderhelm",
+        "rarity": 0,
+        "set": [
+            "Thunder"
+        ]
+    },
+    "122": {
+        "name": "Royal Sabatons",
+        "rarity": 0,
+        "set": [
+            "Royal"
+        ]
+    },
+    "123": {
+        "name": "Royal Helmet",
+        "rarity": 0,
+        "set": [
+            "Royal"
+        ]
+    },
+    "124": {
+        "name": "Royal Leggings",
+        "rarity": 0,
+        "set": [
+            "Royal"
+        ]
+    },
+    "125": {
+        "name": "Thunderstriders",
+        "rarity": 0,
+        "set": [
+            "Thunder"
+        ]
+    },
+    "126": {
+        "name": "Royal Chestplate",
+        "rarity": 0,
+        "set": [
+            "Royal"
+        ]
+    },
+    "127": {
+        "name": "Thundergrace",
+        "rarity": 0,
+        "set": [
+            "Thunder"
+        ]
+    },
+    "128": {
+        "name": "Thunderblade",
+        "rarity": 0,
+        "set": [
+            "Thunder"
+        ]
+    },
+    "129": {
+        "name": "Thundervow",
+        "rarity": 0,
+        "set": [
+            "Thunder"
+        ]
+    },
+    "130": {
+        "name": "Wooden Crown",
+        "rarity": 0,
+        "set": [
+            "Wood"
+        ]
+    },
+    "131": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "132": {
+        "name": "Witherscar",
+        "rarity": 0,
+        "set": [
+            "Chromalure",
+            "Swiftness"
+        ]
+    },
+    "133": {
+        "name": "Dark Magical Ring",
+        "rarity": 0,
+        "set": [
+            "Darkness",
+            "Zephyron"
+        ]
+    },
+    "134": {
+        "name": "Nighthorn",
+        "rarity": 0,
+        "set": [
+            "Chromalure"
+        ]
+    },
+    "135": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "136": {
+        "name": "Dark Harness",
+        "rarity": 0,
+        "set": [
+            "Darkness",
+            "Wood"
+        ]
+    },
+    "137": {
+        "name": "Alchemist's Wisdom",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "138": {
+        "name": "Tome of Darkness",
+        "rarity": 0,
+        "set": [
+            "Essential"
+        ]
+    },
+    "139": {
+        "name": "Shadow Ring",
+        "rarity": 0,
+        "set": [
+            "Shadow"
+        ]
+    },
+    "140": {
+        "name": "Shadow Wisdom",
+        "rarity": 0,
+        "set": [
+            "Shadow"
+        ]
+    },
+    "141": {
+        "name": "Demonic Sabatons",
+        "rarity": 0,
+        "set": [
+            "Demonic"
+        ]
+    },
+    "142": {
+        "name": "Shadow Piercer",
+        "rarity": 0,
+        "set": [
+            "Shadow"
+        ]
+    },
+    "143": {
+        "name": "Shadow Cloak",
+        "rarity": 0,
+        "set": [
+            "Shadow"
+        ]
+    },
+    "144": {
+        "name": "Demonic Axe",
+        "rarity": 0,
+        "set": [
+            "Demonic"
+        ]
+    },
+    "145": {
+        "name": "Demonic Helmet",
+        "rarity": 0,
+        "set": [
+            "Demonic"
+        ]
+    },
+    "146": {
+        "name": "Shadow Echo",
+        "rarity": 0,
+        "set": [
+            "Shadow"
+        ]
+    },
+    "147": {
+        "name": "Shadow Sentence",
+        "rarity": 0,
+        "set": [
+            "Shadow",
+            "Swiftness"
+        ]
+    },
+    "148": {
+        "name": "Shadow Vortex",
+        "rarity": 0,
+        "set": [
+            "Shadow"
+        ]
+    },
+    "149": {
+        "name": "Demonic Leggings",
+        "rarity": 0,
+        "set": [
+            "Demonic"
+        ]
+    },
+    "150": {
+        "name": "Demonic Chestplate",
+        "rarity": 0,
+        "set": [
+            "Demonic"
+        ]
+    },
+    "151": {
+        "name": "Demonic Claymore",
+        "rarity": 0,
+        "set": [
+            "Demonic",
+            "Swiftness"
+        ]
+    },
+    "152": {
+        "name": "Demonic Ring",
+        "rarity": 0,
+        "set": [
+            "Demonic"
+        ]
+    },
+    "162": {
+        "name": "Shard of Power",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "163": {
+        "name": "Emperor's Will",
+        "rarity": 0,
+        "set": [
+            "Arcanum",
+            "Golden"
+        ]
+    },
+    "164": {
+        "name": "Unknown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "165": {
+        "name": "Cursed Ring",
+        "rarity": 0,
+        "set": [
+            "Cursed"
+        ]
+    },
+    "166": {
+        "name": "Unknown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "167": {
+        "name": "Mask of the Cursed",
+        "rarity": 0,
+        "set": [
+            "Cursed"
+        ]
+    },
+    "168": {
+        "name": "Blade of the Ruined",
+        "rarity": 0,
+        "set": [
+            "Cursed"
+        ]
+    },
+    "169": {
+        "name": "Lightning Boots",
+        "rarity": 0,
+        "set": [
+            "Generic",
+            "Swiftness"
+        ]
+    },
+    "170": {
+        "name": "Shaman's Robe",
+        "rarity": 0,
+        "set": [
+            "Cursed"
+        ]
+    },
+    "171": {
+        "name": "Turtle Sabatons",
+        "rarity": 0,
+        "set": [
+            "Ancient Shell"
+        ]
+    },
+    "172": {
+        "name": "Turtle Leggings",
+        "rarity": 0,
+        "set": [
+            "Ancient Shell"
+        ]
+    },
+    "173": {
+        "name": "Coward's Ring",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "174": {
+        "name": "Soul Collector",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "175": {
+        "name": "Heart of Golden",
+        "rarity": 0,
+        "set": [
+            "Golden"
+        ]
+    },
+    "176": {
+        "name": "Turtle Chestplate",
+        "rarity": 0,
+        "set": [
+            "Ancient Shell"
+        ]
+    },
+    "177": {
+        "name": "Elemental Necklace",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "178": {
+        "name": "Giants Ring",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "179": {
+        "name": "Unknown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "180": {
+        "name": "Turtle Gauntlet",
+        "rarity": 0,
+        "set": [
+            "Ancient Shell"
+        ]
+    },
+    "181": {
+        "name": "Gloom",
+        "rarity": 0,
+        "set": [
+            "Jade"
+        ]
+    },
+    "182": {
+        "name": "Qolk",
+        "rarity": 0,
+        "set": [
+            "Jade",
+            "Swiftness"
+        ]
+    },
+    "183": {
+        "name": "Blake",
+        "rarity": 0,
+        "set": [
+            "Jade"
+        ]
+    },
+    "184": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "185": {
+        "name": "Vampiric Chestplate",
+        "rarity": 0,
+        "set": [
+            "Vampiric"
+        ]
+    },
+    "186": {
+        "name": "Glimmer",
+        "rarity": 0,
+        "set": [
+            "Jade"
+        ]
+    },
+    "187": {
+        "name": "Vurk",
+        "rarity": 0,
+        "set": [
+            "Jade"
+        ]
+    },
+    "188": {
+        "name": "Bloodedge",
+        "rarity": 0,
+        "set": [
+            "Vampiric"
+        ]
+    },
+    "189": {
+        "name": "Ethercrest's Sabatons",
+        "rarity": 0,
+        "set": [
+            "Ancient Ice"
+        ]
+    },
+    "190": {
+        "name": "Ethercrest's Tome",
+        "rarity": 0,
+        "set": [
+            "Essential"
+        ]
+    },
+    "191": {
+        "name": "Ethercrest's Blade",
+        "rarity": 0,
+        "set": [
+            "Ancient Ice",
+            "Swiftness"
+        ]
+    },
+    "192": {
+        "name": "Ethercrest's Helmet",
+        "rarity": 0,
+        "set": [
+            "Ancient Ice"
+        ]
+    },
+    "193": {
+        "name": "Ethercrest's Staff",
+        "rarity": 0,
+        "set": [
+            "Ancient Ice"
+        ]
+    },
+    "194": {
+        "name": "Ethercrest's Sword",
+        "rarity": 0,
+        "set": [
+            "Ancient Ice"
+        ]
+    },
+    "195": {
+        "name": "Ethercrest's Leggings",
+        "rarity": 0,
+        "set": [
+            "Ancient Ice"
+        ]
+    },
+    "196": {
+        "name": "Ethercrest's Chestplate",
+        "rarity": 0,
+        "set": [
+            "Ancient Ice"
+        ]
+    },
+    "197": {
+        "name": "Ethercrest's Ring",
+        "rarity": 0,
+        "set": [
+            "Ancient Ice"
+        ]
+    },
+    "198": {
+        "name": "Mask of Cataclysm",
+        "rarity": 0,
+        "set": [
+            "Cataclysm"
+        ]
+    },
+    "199": {
+        "name": "Ring of Interest",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "200": {
+        "name": "Rod of Doom",
+        "rarity": 0,
+        "set": [
+            "Darkness",
+            "Wood"
+        ]
+    },
+    "201": {
+        "name": "Shadow Whisper",
+        "rarity": 0,
+        "set": [
+            "Shadow"
+        ]
+    },
+    "202": {
+        "name": "Magma Sabatons",
+        "rarity": 0,
+        "set": [
+            "Magma"
+        ]
+    },
+    "203": {
+        "name": "Magma Helmet",
+        "rarity": 0,
+        "set": [
+            "Magma"
+        ]
+    },
+    "204": {
+        "name": "Magma Leggings",
+        "rarity": 0,
+        "set": [
+            "Magma"
+        ]
+    },
+    "205": {
+        "name": "Magma Chestplate",
+        "rarity": 0,
+        "set": [
+            "Magma"
+        ]
+    },
+    "206": {
+        "name": "Magma Necklace",
+        "rarity": 0,
+        "set": [
+            "Magma"
+        ]
+    },
+    "207": {
+        "name": "Magma Poleaxe",
+        "rarity": 0,
+        "set": [
+            "Magma"
+        ]
+    },
+    "208": {
+        "name": "Ring of Ice",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "209": {
+        "name": "Jester's Bone Mask",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "210": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "211": {
+        "name": "Celestial Helmet",
+        "rarity": 0,
+        "set": [
+            "Celestial"
+        ]
+    },
+    "212": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "213": {
+        "name": "Celestial Chestplate",
+        "rarity": 0,
+        "set": [
+            "Celestial"
+        ]
+    },
+    "214": {
+        "name": "Throngler",
+        "rarity": 0,
+        "set": [
+            "Generic"
+        ]
+    },
+    "215": {
+        "name": "Unkown Item",
+        "rarity": 0,
+        "set": [
+            ""
+        ]
+    },
+    "216": {
+        "name": "Ring of Unity",
+        "rarity": 0,
+        "set": [
+            "Legacy"
+        ]
+    },
+    "217": {
+        "name": "Excalibur",
+        "rarity": 0,
+        "set": [
+            "Legacy"
+        ]
+    }
+}
