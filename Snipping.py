@@ -21,13 +21,13 @@ def snip_library_slots():
             for y in library[1]:
                 for x in library[0]:
                     if lib_name.startswith("Page5"):
-                        if library[1].index(y) < 4:
+                        if library[1].index(y) < 3:
                             continue
-                        if library[1].index(y) == 5:
+                        if library[1].index(y) == 4:
                             if library[0].index(x) > 1:
                                 continue
                         # Apply offset for page 5
-                        snipped_slot = snip_slots(x[0], y[0]+26, x[1], y[1]+26, lib_img)
+                        snipped_slot = snip_slots(x[0], y[0]+27, x[1], y[1]+27, lib_img)
                     else:
                         snipped_slot = snip_slots(x[0], y[0], x[1], y[1], lib_img)
                     save_name = str("snipped_images\\snipped_slot_" + str(counter) + ".png")

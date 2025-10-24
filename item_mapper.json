@@ -1,0 +1,6878 @@
+{
+    "0": {
+        "type": 0,
+        "rarity": 9
+    },
+    "1": {
+        "type": 1,
+        "rarity": 9
+    },
+    "2": {
+        "type": 2,
+        "rarity": 0
+    },
+    "3": {
+        "type": 3,
+        "rarity": 0
+    },
+    "4": {
+        "type": 4,
+        "rarity": 0
+    },
+    "5": {
+        "type": 5,
+        "rarity": 0
+    },
+    "6": {
+        "type": 6,
+        "rarity": 0
+    },
+    "7": {
+        "type": 7,
+        "rarity": 0
+    },
+    "8": {
+        "type": 8,
+        "rarity": 0
+    },
+    "9": {
+        "type": 9,
+        "rarity": 0
+    },
+    "10": {
+        "type": 10,
+        "rarity": 0
+    },
+    "11": {
+        "type": 11,
+        "rarity": 0
+    },
+    "12": {
+        "type": 12,
+        "rarity": 0
+    },
+    "13": {
+        "type": 13,
+        "rarity": 0
+    },
+    "14": {
+        "type": 14,
+        "rarity": 0
+    },
+    "15": {
+        "type": 15,
+        "rarity": 0
+    },
+    "16": {
+        "type": 16,
+        "rarity": 0
+    },
+    "17": {
+        "type": 17,
+        "rarity": 0
+    },
+    "18": {
+        "type": 3,
+        "rarity": 0
+    },
+    "19": {
+        "type": 19,
+        "rarity": 0
+    },
+    "20": {
+        "type": 20,
+        "rarity": 0
+    },
+    "21": {
+        "type": 21,
+        "rarity": 0
+    },
+    "22": {
+        "type": 22,
+        "rarity": 0
+    },
+    "23": {
+        "type": 23,
+        "rarity": 0
+    },
+    "24": {
+        "type": 24,
+        "rarity": 0
+    },
+    "25": {
+        "type": 25,
+        "rarity": 0
+    },
+    "26": {
+        "type": 26,
+        "rarity": 0
+    },
+    "27": {
+        "type": 27,
+        "rarity": 0
+    },
+    "28": {
+        "type": 28,
+        "rarity": 0
+    },
+    "29": {
+        "type": 3,
+        "rarity": 0
+    },
+    "30": {
+        "type": 30,
+        "rarity": 0
+    },
+    "31": {
+        "type": 31,
+        "rarity": 0
+    },
+    "32": {
+        "type": 32,
+        "rarity": 0
+    },
+    "33": {
+        "type": 33,
+        "rarity": 0
+    },
+    "34": {
+        "type": 34,
+        "rarity": 0
+    },
+    "35": {
+        "type": 35,
+        "rarity": 0
+    },
+    "36": {
+        "type": 36,
+        "rarity": 0
+    },
+    "37": {
+        "type": 37,
+        "rarity": 0
+    },
+    "38": {
+        "type": 38,
+        "rarity": 0
+    },
+    "39": {
+        "type": 39,
+        "rarity": 0
+    },
+    "40": {
+        "type": 40,
+        "rarity": 0
+    },
+    "41": {
+        "type": 41,
+        "rarity": 0
+    },
+    "42": {
+        "type": 42,
+        "rarity": 0
+    },
+    "43": {
+        "type": 43,
+        "rarity": 0
+    },
+    "44": {
+        "type": 44,
+        "rarity": 0
+    },
+    "45": {
+        "type": 0,
+        "rarity": 9
+    },
+    "46": {
+        "type": 1,
+        "rarity": 9
+    },
+    "47": {
+        "type": 2,
+        "rarity": 1
+    },
+    "48": {
+        "type": 3,
+        "rarity": 0
+    },
+    "49": {
+        "type": 4,
+        "rarity": 1
+    },
+    "50": {
+        "type": 5,
+        "rarity": 1
+    },
+    "51": {
+        "type": 6,
+        "rarity": 1
+    },
+    "52": {
+        "type": 7,
+        "rarity": 1
+    },
+    "53": {
+        "type": 8,
+        "rarity": 1
+    },
+    "54": {
+        "type": 9,
+        "rarity": 1
+    },
+    "55": {
+        "type": 10,
+        "rarity": 1
+    },
+    "56": {
+        "type": 11,
+        "rarity": 1
+    },
+    "57": {
+        "type": 12,
+        "rarity": 1
+    },
+    "58": {
+        "type": 13,
+        "rarity": 1
+    },
+    "59": {
+        "type": 14,
+        "rarity": 1
+    },
+    "60": {
+        "type": 15,
+        "rarity": 1
+    },
+    "61": {
+        "type": 16,
+        "rarity": 1
+    },
+    "62": {
+        "type": 17,
+        "rarity": 1
+    },
+    "63": {
+        "type": 3,
+        "rarity": 0
+    },
+    "64": {
+        "type": 19,
+        "rarity": 1
+    },
+    "65": {
+        "type": 20,
+        "rarity": 1
+    },
+    "66": {
+        "type": 21,
+        "rarity": 1
+    },
+    "67": {
+        "type": 22,
+        "rarity": 1
+    },
+    "68": {
+        "type": 23,
+        "rarity": 1
+    },
+    "69": {
+        "type": 24,
+        "rarity": 1
+    },
+    "70": {
+        "type": 25,
+        "rarity": 1
+    },
+    "71": {
+        "type": 26,
+        "rarity": 1
+    },
+    "72": {
+        "type": 27,
+        "rarity": 1
+    },
+    "73": {
+        "type": 28,
+        "rarity": 1
+    },
+    "74": {
+        "type": 3,
+        "rarity": 0
+    },
+    "75": {
+        "type": 30,
+        "rarity": 1
+    },
+    "76": {
+        "type": 31,
+        "rarity": 1
+    },
+    "77": {
+        "type": 32,
+        "rarity": 1
+    },
+    "78": {
+        "type": 33,
+        "rarity": 1
+    },
+    "79": {
+        "type": 34,
+        "rarity": 1
+    },
+    "80": {
+        "type": 35,
+        "rarity": 1
+    },
+    "81": {
+        "type": 36,
+        "rarity": 1
+    },
+    "82": {
+        "type": 37,
+        "rarity": 1
+    },
+    "83": {
+        "type": 38,
+        "rarity": 1
+    },
+    "84": {
+        "type": 39,
+        "rarity": 1
+    },
+    "85": {
+        "type": 40,
+        "rarity": 1
+    },
+    "86": {
+        "type": 41,
+        "rarity": 1
+    },
+    "87": {
+        "type": 42,
+        "rarity": 1
+    },
+    "88": {
+        "type": 43,
+        "rarity": 1
+    },
+    "89": {
+        "type": 44,
+        "rarity": 1
+    },
+    "90": {
+        "type": 0,
+        "rarity": 9
+    },
+    "91": {
+        "type": 1,
+        "rarity": 9
+    },
+    "92": {
+        "type": 2,
+        "rarity": 2
+    },
+    "93": {
+        "type": 3,
+        "rarity": 0
+    },
+    "94": {
+        "type": 4,
+        "rarity": 2
+    },
+    "95": {
+        "type": 5,
+        "rarity": 2
+    },
+    "96": {
+        "type": 6,
+        "rarity": 2
+    },
+    "97": {
+        "type": 7,
+        "rarity": 2
+    },
+    "98": {
+        "type": 8,
+        "rarity": 2
+    },
+    "99": {
+        "type": 9,
+        "rarity": 2
+    },
+    "100": {
+        "type": 10,
+        "rarity": 2
+    },
+    "101": {
+        "type": 11,
+        "rarity": 2
+    },
+    "102": {
+        "type": 12,
+        "rarity": 2
+    },
+    "103": {
+        "type": 13,
+        "rarity": 2
+    },
+    "104": {
+        "type": 14,
+        "rarity": 2
+    },
+    "105": {
+        "type": 15,
+        "rarity": 2
+    },
+    "106": {
+        "type": 16,
+        "rarity": 2
+    },
+    "107": {
+        "type": 17,
+        "rarity": 2
+    },
+    "108": {
+        "type": 3,
+        "rarity": 0
+    },
+    "109": {
+        "type": 19,
+        "rarity": 2
+    },
+    "110": {
+        "type": 20,
+        "rarity": 2
+    },
+    "111": {
+        "type": 21,
+        "rarity": 2
+    },
+    "112": {
+        "type": 22,
+        "rarity": 2
+    },
+    "113": {
+        "type": 23,
+        "rarity": 2
+    },
+    "114": {
+        "type": 24,
+        "rarity": 2
+    },
+    "115": {
+        "type": 25,
+        "rarity": 2
+    },
+    "116": {
+        "type": 26,
+        "rarity": 2
+    },
+    "117": {
+        "type": 27,
+        "rarity": 2
+    },
+    "118": {
+        "type": 28,
+        "rarity": 2
+    },
+    "119": {
+        "type": 3,
+        "rarity": 0
+    },
+    "120": {
+        "type": 30,
+        "rarity": 2
+    },
+    "121": {
+        "type": 31,
+        "rarity": 2
+    },
+    "122": {
+        "type": 32,
+        "rarity": 2
+    },
+    "123": {
+        "type": 33,
+        "rarity": 2
+    },
+    "124": {
+        "type": 34,
+        "rarity": 2
+    },
+    "125": {
+        "type": 35,
+        "rarity": 2
+    },
+    "126": {
+        "type": 36,
+        "rarity": 2
+    },
+    "127": {
+        "type": 37,
+        "rarity": 2
+    },
+    "128": {
+        "type": 38,
+        "rarity": 2
+    },
+    "129": {
+        "type": 39,
+        "rarity": 2
+    },
+    "130": {
+        "type": 40,
+        "rarity": 2
+    },
+    "131": {
+        "type": 41,
+        "rarity": 2
+    },
+    "132": {
+        "type": 42,
+        "rarity": 2
+    },
+    "133": {
+        "type": 43,
+        "rarity": 2
+    },
+    "134": {
+        "type": 44,
+        "rarity": 2
+    },
+    "135": {
+        "type": 0,
+        "rarity": 9
+    },
+    "136": {
+        "type": 1,
+        "rarity": 9
+    },
+    "137": {
+        "type": 2,
+        "rarity": 3
+    },
+    "138": {
+        "type": 3,
+        "rarity": 0
+    },
+    "139": {
+        "type": 4,
+        "rarity": 3
+    },
+    "140": {
+        "type": 5,
+        "rarity": 3
+    },
+    "141": {
+        "type": 6,
+        "rarity": 3
+    },
+    "142": {
+        "type": 7,
+        "rarity": 3
+    },
+    "143": {
+        "type": 8,
+        "rarity": 3
+    },
+    "144": {
+        "type": 9,
+        "rarity": 3
+    },
+    "145": {
+        "type": 10,
+        "rarity": 3
+    },
+    "146": {
+        "type": 11,
+        "rarity": 3
+    },
+    "147": {
+        "type": 12,
+        "rarity": 3
+    },
+    "148": {
+        "type": 13,
+        "rarity": 3
+    },
+    "149": {
+        "type": 14,
+        "rarity": 3
+    },
+    "150": {
+        "type": 15,
+        "rarity": 3
+    },
+    "151": {
+        "type": 16,
+        "rarity": 3
+    },
+    "152": {
+        "type": 17,
+        "rarity": 3
+    },
+    "153": {
+        "type": 3,
+        "rarity": 0
+    },
+    "154": {
+        "type": 19,
+        "rarity": 3
+    },
+    "155": {
+        "type": 20,
+        "rarity": 3
+    },
+    "156": {
+        "type": 21,
+        "rarity": 3
+    },
+    "157": {
+        "type": 22,
+        "rarity": 3
+    },
+    "158": {
+        "type": 23,
+        "rarity": 3
+    },
+    "159": {
+        "type": 24,
+        "rarity": 3
+    },
+    "160": {
+        "type": 25,
+        "rarity": 3
+    },
+    "161": {
+        "type": 26,
+        "rarity": 3
+    },
+    "162": {
+        "type": 27,
+        "rarity": 3
+    },
+    "163": {
+        "type": 28,
+        "rarity": 3
+    },
+    "164": {
+        "type": 3,
+        "rarity": 0
+    },
+    "165": {
+        "type": 30,
+        "rarity": 3
+    },
+    "166": {
+        "type": 31,
+        "rarity": 3
+    },
+    "167": {
+        "type": 32,
+        "rarity": 3
+    },
+    "168": {
+        "type": 33,
+        "rarity": 3
+    },
+    "169": {
+        "type": 34,
+        "rarity": 3
+    },
+    "170": {
+        "type": 35,
+        "rarity": 3
+    },
+    "171": {
+        "type": 36,
+        "rarity": 3
+    },
+    "172": {
+        "type": 37,
+        "rarity": 3
+    },
+    "173": {
+        "type": 38,
+        "rarity": 3
+    },
+    "174": {
+        "type": 39,
+        "rarity": 3
+    },
+    "175": {
+        "type": 40,
+        "rarity": 3
+    },
+    "176": {
+        "type": 41,
+        "rarity": 3
+    },
+    "177": {
+        "type": 42,
+        "rarity": 3
+    },
+    "178": {
+        "type": 43,
+        "rarity": 3
+    },
+    "179": {
+        "type": 44,
+        "rarity": 3
+    },
+    "180": {
+        "type": 0,
+        "rarity": 9
+    },
+    "181": {
+        "type": 1,
+        "rarity": 9
+    },
+    "182": {
+        "type": 2,
+        "rarity": 4
+    },
+    "183": {
+        "type": 3,
+        "rarity": 0
+    },
+    "184": {
+        "type": 4,
+        "rarity": 4
+    },
+    "185": {
+        "type": 5,
+        "rarity": 4
+    },
+    "186": {
+        "type": 6,
+        "rarity": 4
+    },
+    "187": {
+        "type": 7,
+        "rarity": 4
+    },
+    "188": {
+        "type": 8,
+        "rarity": 4
+    },
+    "189": {
+        "type": 9,
+        "rarity": 4
+    },
+    "190": {
+        "type": 10,
+        "rarity": 4
+    },
+    "191": {
+        "type": 11,
+        "rarity": 4
+    },
+    "192": {
+        "type": 12,
+        "rarity": 4
+    },
+    "193": {
+        "type": 13,
+        "rarity": 4
+    },
+    "194": {
+        "type": 14,
+        "rarity": 4
+    },
+    "195": {
+        "type": 15,
+        "rarity": 4
+    },
+    "196": {
+        "type": 16,
+        "rarity": 4
+    },
+    "197": {
+        "type": 17,
+        "rarity": 4
+    },
+    "198": {
+        "type": 3,
+        "rarity": 0
+    },
+    "199": {
+        "type": 19,
+        "rarity": 4
+    },
+    "200": {
+        "type": 20,
+        "rarity": 4
+    },
+    "201": {
+        "type": 21,
+        "rarity": 4
+    },
+    "202": {
+        "type": 22,
+        "rarity": 4
+    },
+    "203": {
+        "type": 23,
+        "rarity": 4
+    },
+    "204": {
+        "type": 24,
+        "rarity": 4
+    },
+    "205": {
+        "type": 25,
+        "rarity": 4
+    },
+    "206": {
+        "type": 26,
+        "rarity": 4
+    },
+    "207": {
+        "type": 27,
+        "rarity": 4
+    },
+    "208": {
+        "type": 28,
+        "rarity": 4
+    },
+    "209": {
+        "type": 3,
+        "rarity": 0
+    },
+    "210": {
+        "type": 30,
+        "rarity": 4
+    },
+    "211": {
+        "type": 31,
+        "rarity": 4
+    },
+    "212": {
+        "type": 32,
+        "rarity": 4
+    },
+    "213": {
+        "type": 33,
+        "rarity": 4
+    },
+    "214": {
+        "type": 34,
+        "rarity": 4
+    },
+    "215": {
+        "type": 35,
+        "rarity": 4
+    },
+    "216": {
+        "type": 36,
+        "rarity": 4
+    },
+    "217": {
+        "type": 37,
+        "rarity": 4
+    },
+    "218": {
+        "type": 38,
+        "rarity": 4
+    },
+    "219": {
+        "type": 39,
+        "rarity": 4
+    },
+    "220": {
+        "type": 40,
+        "rarity": 4
+    },
+    "221": {
+        "type": 41,
+        "rarity": 4
+    },
+    "222": {
+        "type": 42,
+        "rarity": 4
+    },
+    "223": {
+        "type": 43,
+        "rarity": 4
+    },
+    "224": {
+        "type": 44,
+        "rarity": 4
+    },
+    "225": {
+        "type": 0,
+        "rarity": 9
+    },
+    "226": {
+        "type": 1,
+        "rarity": 9
+    },
+    "227": {
+        "type": 2,
+        "rarity": 5
+    },
+    "228": {
+        "type": 3,
+        "rarity": 0
+    },
+    "229": {
+        "type": 4,
+        "rarity": 5
+    },
+    "230": {
+        "type": 5,
+        "rarity": 5
+    },
+    "231": {
+        "type": 6,
+        "rarity": 5
+    },
+    "232": {
+        "type": 7,
+        "rarity": 5
+    },
+    "233": {
+        "type": 8,
+        "rarity": 5
+    },
+    "234": {
+        "type": 9,
+        "rarity": 5
+    },
+    "235": {
+        "type": 10,
+        "rarity": 5
+    },
+    "236": {
+        "type": 11,
+        "rarity": 5
+    },
+    "237": {
+        "type": 12,
+        "rarity": 5
+    },
+    "238": {
+        "type": 13,
+        "rarity": 5
+    },
+    "239": {
+        "type": 14,
+        "rarity": 5
+    },
+    "240": {
+        "type": 15,
+        "rarity": 5
+    },
+    "241": {
+        "type": 16,
+        "rarity": 5
+    },
+    "242": {
+        "type": 17,
+        "rarity": 5
+    },
+    "243": {
+        "type": 3,
+        "rarity": 0
+    },
+    "244": {
+        "type": 19,
+        "rarity": 5
+    },
+    "245": {
+        "type": 20,
+        "rarity": 5
+    },
+    "246": {
+        "type": 21,
+        "rarity": 5
+    },
+    "247": {
+        "type": 22,
+        "rarity": 5
+    },
+    "248": {
+        "type": 23,
+        "rarity": 5
+    },
+    "249": {
+        "type": 24,
+        "rarity": 5
+    },
+    "250": {
+        "type": 25,
+        "rarity": 5
+    },
+    "251": {
+        "type": 26,
+        "rarity": 5
+    },
+    "252": {
+        "type": 27,
+        "rarity": 5
+    },
+    "253": {
+        "type": 28,
+        "rarity": 5
+    },
+    "254": {
+        "type": 3,
+        "rarity": 0
+    },
+    "255": {
+        "type": 30,
+        "rarity": 5
+    },
+    "256": {
+        "type": 31,
+        "rarity": 5
+    },
+    "257": {
+        "type": 32,
+        "rarity": 5
+    },
+    "258": {
+        "type": 33,
+        "rarity": 5
+    },
+    "259": {
+        "type": 34,
+        "rarity": 5
+    },
+    "260": {
+        "type": 35,
+        "rarity": 5
+    },
+    "261": {
+        "type": 36,
+        "rarity": 5
+    },
+    "262": {
+        "type": 37,
+        "rarity": 5
+    },
+    "263": {
+        "type": 38,
+        "rarity": 5
+    },
+    "264": {
+        "type": 39,
+        "rarity": 5
+    },
+    "265": {
+        "type": 40,
+        "rarity": 5
+    },
+    "266": {
+        "type": 41,
+        "rarity": 5
+    },
+    "267": {
+        "type": 42,
+        "rarity": 5
+    },
+    "268": {
+        "type": 43,
+        "rarity": 5
+    },
+    "269": {
+        "type": 44,
+        "rarity": 5
+    },
+    "270": {
+        "type": 0,
+        "rarity": 9
+    },
+    "271": {
+        "type": 1,
+        "rarity": 9
+    },
+    "272": {
+        "type": 2,
+        "rarity": 6
+    },
+    "273": {
+        "type": 3,
+        "rarity": 0
+    },
+    "274": {
+        "type": 4,
+        "rarity": 6
+    },
+    "275": {
+        "type": 5,
+        "rarity": 6
+    },
+    "276": {
+        "type": 6,
+        "rarity": 6
+    },
+    "277": {
+        "type": 7,
+        "rarity": 6
+    },
+    "278": {
+        "type": 8,
+        "rarity": 6
+    },
+    "279": {
+        "type": 9,
+        "rarity": 6
+    },
+    "280": {
+        "type": 10,
+        "rarity": 6
+    },
+    "281": {
+        "type": 11,
+        "rarity": 6
+    },
+    "282": {
+        "type": 12,
+        "rarity": 6
+    },
+    "283": {
+        "type": 13,
+        "rarity": 6
+    },
+    "284": {
+        "type": 14,
+        "rarity": 6
+    },
+    "285": {
+        "type": 15,
+        "rarity": 6
+    },
+    "286": {
+        "type": 16,
+        "rarity": 6
+    },
+    "287": {
+        "type": 17,
+        "rarity": 6
+    },
+    "288": {
+        "type": 3,
+        "rarity": 0
+    },
+    "289": {
+        "type": 19,
+        "rarity": 6
+    },
+    "290": {
+        "type": 20,
+        "rarity": 6
+    },
+    "291": {
+        "type": 21,
+        "rarity": 6
+    },
+    "292": {
+        "type": 22,
+        "rarity": 6
+    },
+    "293": {
+        "type": 23,
+        "rarity": 6
+    },
+    "294": {
+        "type": 24,
+        "rarity": 6
+    },
+    "295": {
+        "type": 25,
+        "rarity": 6
+    },
+    "296": {
+        "type": 26,
+        "rarity": 6
+    },
+    "297": {
+        "type": 27,
+        "rarity": 6
+    },
+    "298": {
+        "type": 28,
+        "rarity": 6
+    },
+    "299": {
+        "type": 3,
+        "rarity": 0
+    },
+    "300": {
+        "type": 30,
+        "rarity": 6
+    },
+    "301": {
+        "type": 31,
+        "rarity": 6
+    },
+    "302": {
+        "type": 32,
+        "rarity": 6
+    },
+    "303": {
+        "type": 33,
+        "rarity": 6
+    },
+    "304": {
+        "type": 34,
+        "rarity": 6
+    },
+    "305": {
+        "type": 35,
+        "rarity": 6
+    },
+    "306": {
+        "type": 36,
+        "rarity": 6
+    },
+    "307": {
+        "type": 37,
+        "rarity": 6
+    },
+    "308": {
+        "type": 38,
+        "rarity": 6
+    },
+    "309": {
+        "type": 39,
+        "rarity": 6
+    },
+    "310": {
+        "type": 40,
+        "rarity": 6
+    },
+    "311": {
+        "type": 41,
+        "rarity": 6
+    },
+    "312": {
+        "type": 42,
+        "rarity": 6
+    },
+    "313": {
+        "type": 43,
+        "rarity": 6
+    },
+    "314": {
+        "type": 44,
+        "rarity": 6
+    },
+    "315": {
+        "type": 0,
+        "rarity": 9
+    },
+    "316": {
+        "type": 1,
+        "rarity": 9
+    },
+    "317": {
+        "type": 2,
+        "rarity": 7
+    },
+    "318": {
+        "type": 3,
+        "rarity": 0
+    },
+    "319": {
+        "type": 4,
+        "rarity": 7
+    },
+    "320": {
+        "type": 5,
+        "rarity": 7
+    },
+    "321": {
+        "type": 6,
+        "rarity": 7
+    },
+    "322": {
+        "type": 7,
+        "rarity": 7
+    },
+    "323": {
+        "type": 8,
+        "rarity": 7
+    },
+    "324": {
+        "type": 9,
+        "rarity": 7
+    },
+    "325": {
+        "type": 10,
+        "rarity": 7
+    },
+    "326": {
+        "type": 11,
+        "rarity": 7
+    },
+    "327": {
+        "type": 12,
+        "rarity": 7
+    },
+    "328": {
+        "type": 13,
+        "rarity": 7
+    },
+    "329": {
+        "type": 14,
+        "rarity": 7
+    },
+    "330": {
+        "type": 15,
+        "rarity": 7
+    },
+    "331": {
+        "type": 16,
+        "rarity": 7
+    },
+    "332": {
+        "type": 17,
+        "rarity": 7
+    },
+    "333": {
+        "type": 3,
+        "rarity": 0
+    },
+    "334": {
+        "type": 19,
+        "rarity": 7
+    },
+    "335": {
+        "type": 20,
+        "rarity": 7
+    },
+    "336": {
+        "type": 21,
+        "rarity": 7
+    },
+    "337": {
+        "type": 22,
+        "rarity": 7
+    },
+    "338": {
+        "type": 23,
+        "rarity": 7
+    },
+    "339": {
+        "type": 24,
+        "rarity": 7
+    },
+    "340": {
+        "type": 25,
+        "rarity": 7
+    },
+    "341": {
+        "type": 26,
+        "rarity": 7
+    },
+    "342": {
+        "type": 27,
+        "rarity": 7
+    },
+    "343": {
+        "type": 28,
+        "rarity": 7
+    },
+    "344": {
+        "type": 3,
+        "rarity": 0
+    },
+    "345": {
+        "type": 30,
+        "rarity": 7
+    },
+    "346": {
+        "type": 31,
+        "rarity": 7
+    },
+    "347": {
+        "type": 32,
+        "rarity": 7
+    },
+    "348": {
+        "type": 33,
+        "rarity": 7
+    },
+    "349": {
+        "type": 34,
+        "rarity": 7
+    },
+    "350": {
+        "type": 35,
+        "rarity": 7
+    },
+    "351": {
+        "type": 36,
+        "rarity": 7
+    },
+    "352": {
+        "type": 37,
+        "rarity": 7
+    },
+    "353": {
+        "type": 38,
+        "rarity": 7
+    },
+    "354": {
+        "type": 39,
+        "rarity": 7
+    },
+    "355": {
+        "type": 40,
+        "rarity": 7
+    },
+    "356": {
+        "type": 41,
+        "rarity": 7
+    },
+    "357": {
+        "type": 42,
+        "rarity": 7
+    },
+    "358": {
+        "type": 43,
+        "rarity": 7
+    },
+    "359": {
+        "type": 44,
+        "rarity": 7
+    },
+    "360": {
+        "type": 0,
+        "rarity": 9
+    },
+    "361": {
+        "type": 1,
+        "rarity": 9
+    },
+    "362": {
+        "type": 2,
+        "rarity": 8
+    },
+    "363": {
+        "type": 3,
+        "rarity": 0
+    },
+    "364": {
+        "type": 4,
+        "rarity": 8
+    },
+    "365": {
+        "type": 5,
+        "rarity": 8
+    },
+    "366": {
+        "type": 6,
+        "rarity": 8
+    },
+    "367": {
+        "type": 7,
+        "rarity": 8
+    },
+    "368": {
+        "type": 8,
+        "rarity": 8
+    },
+    "369": {
+        "type": 9,
+        "rarity": 8
+    },
+    "370": {
+        "type": 10,
+        "rarity": 8
+    },
+    "371": {
+        "type": 11,
+        "rarity": 8
+    },
+    "372": {
+        "type": 12,
+        "rarity": 8
+    },
+    "373": {
+        "type": 13,
+        "rarity": 8
+    },
+    "374": {
+        "type": 14,
+        "rarity": 8
+    },
+    "375": {
+        "type": 15,
+        "rarity": 8
+    },
+    "376": {
+        "type": 16,
+        "rarity": 8
+    },
+    "377": {
+        "type": 17,
+        "rarity": 8
+    },
+    "378": {
+        "type": 3,
+        "rarity": 0
+    },
+    "379": {
+        "type": 19,
+        "rarity": 8
+    },
+    "380": {
+        "type": 20,
+        "rarity": 8
+    },
+    "381": {
+        "type": 21,
+        "rarity": 8
+    },
+    "382": {
+        "type": 22,
+        "rarity": 8
+    },
+    "383": {
+        "type": 23,
+        "rarity": 8
+    },
+    "384": {
+        "type": 24,
+        "rarity": 8
+    },
+    "385": {
+        "type": 25,
+        "rarity": 8
+    },
+    "386": {
+        "type": 26,
+        "rarity": 8
+    },
+    "387": {
+        "type": 27,
+        "rarity": 8
+    },
+    "388": {
+        "type": 28,
+        "rarity": 8
+    },
+    "389": {
+        "type": 3,
+        "rarity": 0
+    },
+    "390": {
+        "type": 30,
+        "rarity": 8
+    },
+    "391": {
+        "type": 31,
+        "rarity": 8
+    },
+    "392": {
+        "type": 32,
+        "rarity": 8
+    },
+    "393": {
+        "type": 33,
+        "rarity": 8
+    },
+    "394": {
+        "type": 34,
+        "rarity": 8
+    },
+    "395": {
+        "type": 35,
+        "rarity": 8
+    },
+    "396": {
+        "type": 36,
+        "rarity": 8
+    },
+    "397": {
+        "type": 37,
+        "rarity": 8
+    },
+    "398": {
+        "type": 38,
+        "rarity": 8
+    },
+    "399": {
+        "type": 39,
+        "rarity": 8
+    },
+    "400": {
+        "type": 40,
+        "rarity": 8
+    },
+    "401": {
+        "type": 41,
+        "rarity": 8
+    },
+    "402": {
+        "type": 42,
+        "rarity": 8
+    },
+    "403": {
+        "type": 43,
+        "rarity": 8
+    },
+    "404": {
+        "type": 44,
+        "rarity": 8
+    },
+    "405": {
+        "type": 45,
+        "rarity": 0
+    },
+    "406": {
+        "type": 46,
+        "rarity": 0
+    },
+    "407": {
+        "type": 47,
+        "rarity": 0
+    },
+    "408": {
+        "type": 3,
+        "rarity": 0
+    },
+    "409": {
+        "type": 49,
+        "rarity": 0
+    },
+    "410": {
+        "type": 50,
+        "rarity": 0
+    },
+    "411": {
+        "type": 51,
+        "rarity": 0
+    },
+    "412": {
+        "type": 52,
+        "rarity": 0
+    },
+    "413": {
+        "type": 53,
+        "rarity": 0
+    },
+    "414": {
+        "type": 54,
+        "rarity": 0
+    },
+    "415": {
+        "type": 55,
+        "rarity": 0
+    },
+    "416": {
+        "type": 56,
+        "rarity": 0
+    },
+    "417": {
+        "type": 57,
+        "rarity": 0
+    },
+    "418": {
+        "type": 58,
+        "rarity": 0
+    },
+    "419": {
+        "type": 59,
+        "rarity": 9
+    },
+    "420": {
+        "type": 60,
+        "rarity": 0
+    },
+    "421": {
+        "type": 61,
+        "rarity": 0
+    },
+    "422": {
+        "type": 62,
+        "rarity": 0
+    },
+    "423": {
+        "type": 63,
+        "rarity": 0
+    },
+    "424": {
+        "type": 64,
+        "rarity": 0
+    },
+    "425": {
+        "type": 65,
+        "rarity": 0
+    },
+    "426": {
+        "type": 66,
+        "rarity": 0
+    },
+    "427": {
+        "type": 67,
+        "rarity": 0
+    },
+    "428": {
+        "type": 68,
+        "rarity": 0
+    },
+    "429": {
+        "type": 3,
+        "rarity": 0
+    },
+    "430": {
+        "type": 70,
+        "rarity": 0
+    },
+    "431": {
+        "type": 71,
+        "rarity": 0
+    },
+    "432": {
+        "type": 72,
+        "rarity": 0
+    },
+    "433": {
+        "type": 73,
+        "rarity": 0
+    },
+    "434": {
+        "type": 74,
+        "rarity": 0
+    },
+    "435": {
+        "type": 75,
+        "rarity": 0
+    },
+    "436": {
+        "type": 76,
+        "rarity": 0
+    },
+    "437": {
+        "type": 77,
+        "rarity": 0
+    },
+    "438": {
+        "type": 78,
+        "rarity": 0
+    },
+    "439": {
+        "type": 79,
+        "rarity": 0
+    },
+    "440": {
+        "type": 80,
+        "rarity": 0
+    },
+    "441": {
+        "type": 3,
+        "rarity": 0
+    },
+    "442": {
+        "type": 82,
+        "rarity": 0
+    },
+    "443": {
+        "type": 83,
+        "rarity": 0
+    },
+    "444": {
+        "type": 84,
+        "rarity": 0
+    },
+    "445": {
+        "type": 85,
+        "rarity": 0
+    },
+    "446": {
+        "type": 86,
+        "rarity": 0
+    },
+    "447": {
+        "type": 87,
+        "rarity": 0
+    },
+    "448": {
+        "type": 88,
+        "rarity": 0
+    },
+    "449": {
+        "type": 89,
+        "rarity": 0
+    },
+    "450": {
+        "type": 45,
+        "rarity": 1
+    },
+    "451": {
+        "type": 46,
+        "rarity": 1
+    },
+    "452": {
+        "type": 47,
+        "rarity": 1
+    },
+    "453": {
+        "type": 3,
+        "rarity": 0
+    },
+    "454": {
+        "type": 49,
+        "rarity": 1
+    },
+    "455": {
+        "type": 50,
+        "rarity": 1
+    },
+    "456": {
+        "type": 51,
+        "rarity": 1
+    },
+    "457": {
+        "type": 52,
+        "rarity": 1
+    },
+    "458": {
+        "type": 53,
+        "rarity": 1
+    },
+    "459": {
+        "type": 54,
+        "rarity": 1
+    },
+    "460": {
+        "type": 55,
+        "rarity": 1
+    },
+    "461": {
+        "type": 56,
+        "rarity": 1
+    },
+    "462": {
+        "type": 57,
+        "rarity": 1
+    },
+    "463": {
+        "type": 58,
+        "rarity": 1
+    },
+    "464": {
+        "type": 59,
+        "rarity": 9
+    },
+    "465": {
+        "type": 60,
+        "rarity": 1
+    },
+    "466": {
+        "type": 61,
+        "rarity": 1
+    },
+    "467": {
+        "type": 62,
+        "rarity": 1
+    },
+    "468": {
+        "type": 63,
+        "rarity": 1
+    },
+    "469": {
+        "type": 64,
+        "rarity": 1
+    },
+    "470": {
+        "type": 65,
+        "rarity": 1
+    },
+    "471": {
+        "type": 66,
+        "rarity": 1
+    },
+    "472": {
+        "type": 67,
+        "rarity": 1
+    },
+    "473": {
+        "type": 68,
+        "rarity": 1
+    },
+    "474": {
+        "type": 3,
+        "rarity": 0
+    },
+    "475": {
+        "type": 70,
+        "rarity": 1
+    },
+    "476": {
+        "type": 71,
+        "rarity": 1
+    },
+    "477": {
+        "type": 72,
+        "rarity": 1
+    },
+    "478": {
+        "type": 73,
+        "rarity": 1
+    },
+    "479": {
+        "type": 74,
+        "rarity": 1
+    },
+    "480": {
+        "type": 75,
+        "rarity": 1
+    },
+    "481": {
+        "type": 76,
+        "rarity": 1
+    },
+    "482": {
+        "type": 77,
+        "rarity": 1
+    },
+    "483": {
+        "type": 78,
+        "rarity": 1
+    },
+    "484": {
+        "type": 79,
+        "rarity": 1
+    },
+    "485": {
+        "type": 80,
+        "rarity": 1
+    },
+    "486": {
+        "type": 3,
+        "rarity": 0
+    },
+    "487": {
+        "type": 82,
+        "rarity": 1
+    },
+    "488": {
+        "type": 83,
+        "rarity": 1
+    },
+    "489": {
+        "type": 84,
+        "rarity": 1
+    },
+    "490": {
+        "type": 85,
+        "rarity": 1
+    },
+    "491": {
+        "type": 86,
+        "rarity": 1
+    },
+    "492": {
+        "type": 87,
+        "rarity": 1
+    },
+    "493": {
+        "type": 88,
+        "rarity": 1
+    },
+    "494": {
+        "type": 89,
+        "rarity": 1
+    },
+    "495": {
+        "type": 45,
+        "rarity": 2
+    },
+    "496": {
+        "type": 46,
+        "rarity": 2
+    },
+    "497": {
+        "type": 47,
+        "rarity": 2
+    },
+    "498": {
+        "type": 3,
+        "rarity": 0
+    },
+    "499": {
+        "type": 49,
+        "rarity": 2
+    },
+    "500": {
+        "type": 50,
+        "rarity": 2
+    },
+    "501": {
+        "type": 51,
+        "rarity": 2
+    },
+    "502": {
+        "type": 52,
+        "rarity": 2
+    },
+    "503": {
+        "type": 53,
+        "rarity": 2
+    },
+    "504": {
+        "type": 54,
+        "rarity": 2
+    },
+    "505": {
+        "type": 55,
+        "rarity": 2
+    },
+    "506": {
+        "type": 56,
+        "rarity": 2
+    },
+    "507": {
+        "type": 57,
+        "rarity": 2
+    },
+    "508": {
+        "type": 58,
+        "rarity": 2
+    },
+    "509": {
+        "type": 59,
+        "rarity": 9
+    },
+    "510": {
+        "type": 60,
+        "rarity": 2
+    },
+    "511": {
+        "type": 61,
+        "rarity": 2
+    },
+    "512": {
+        "type": 62,
+        "rarity": 2
+    },
+    "513": {
+        "type": 63,
+        "rarity": 2
+    },
+    "514": {
+        "type": 64,
+        "rarity": 2
+    },
+    "515": {
+        "type": 65,
+        "rarity": 2
+    },
+    "516": {
+        "type": 66,
+        "rarity": 2
+    },
+    "517": {
+        "type": 67,
+        "rarity": 2
+    },
+    "518": {
+        "type": 68,
+        "rarity": 2
+    },
+    "519": {
+        "type": 3,
+        "rarity": 0
+    },
+    "520": {
+        "type": 70,
+        "rarity": 2
+    },
+    "521": {
+        "type": 71,
+        "rarity": 2
+    },
+    "522": {
+        "type": 72,
+        "rarity": 2
+    },
+    "523": {
+        "type": 73,
+        "rarity": 2
+    },
+    "524": {
+        "type": 74,
+        "rarity": 2
+    },
+    "525": {
+        "type": 75,
+        "rarity": 2
+    },
+    "526": {
+        "type": 76,
+        "rarity": 2
+    },
+    "527": {
+        "type": 77,
+        "rarity": 2
+    },
+    "528": {
+        "type": 78,
+        "rarity": 2
+    },
+    "529": {
+        "type": 79,
+        "rarity": 2
+    },
+    "530": {
+        "type": 80,
+        "rarity": 2
+    },
+    "531": {
+        "type": 3,
+        "rarity": 0
+    },
+    "532": {
+        "type": 82,
+        "rarity": 2
+    },
+    "533": {
+        "type": 83,
+        "rarity": 2
+    },
+    "534": {
+        "type": 84,
+        "rarity": 2
+    },
+    "535": {
+        "type": 85,
+        "rarity": 2
+    },
+    "536": {
+        "type": 86,
+        "rarity": 2
+    },
+    "537": {
+        "type": 87,
+        "rarity": 2
+    },
+    "538": {
+        "type": 88,
+        "rarity": 2
+    },
+    "539": {
+        "type": 89,
+        "rarity": 2
+    },
+    "540": {
+        "type": 45,
+        "rarity": 3
+    },
+    "541": {
+        "type": 46,
+        "rarity": 3
+    },
+    "542": {
+        "type": 47,
+        "rarity": 3
+    },
+    "543": {
+        "type": 3,
+        "rarity": 0
+    },
+    "544": {
+        "type": 49,
+        "rarity": 3
+    },
+    "545": {
+        "type": 50,
+        "rarity": 3
+    },
+    "546": {
+        "type": 51,
+        "rarity": 3
+    },
+    "547": {
+        "type": 52,
+        "rarity": 3
+    },
+    "548": {
+        "type": 53,
+        "rarity": 3
+    },
+    "549": {
+        "type": 54,
+        "rarity": 3
+    },
+    "550": {
+        "type": 55,
+        "rarity": 3
+    },
+    "551": {
+        "type": 56,
+        "rarity": 3
+    },
+    "552": {
+        "type": 57,
+        "rarity": 3
+    },
+    "553": {
+        "type": 58,
+        "rarity": 3
+    },
+    "554": {
+        "type": 59,
+        "rarity": 9
+    },
+    "555": {
+        "type": 60,
+        "rarity": 3
+    },
+    "556": {
+        "type": 61,
+        "rarity": 3
+    },
+    "557": {
+        "type": 62,
+        "rarity": 3
+    },
+    "558": {
+        "type": 63,
+        "rarity": 3
+    },
+    "559": {
+        "type": 64,
+        "rarity": 3
+    },
+    "560": {
+        "type": 65,
+        "rarity": 3
+    },
+    "561": {
+        "type": 66,
+        "rarity": 3
+    },
+    "562": {
+        "type": 67,
+        "rarity": 3
+    },
+    "563": {
+        "type": 68,
+        "rarity": 3
+    },
+    "564": {
+        "type": 3,
+        "rarity": 0
+    },
+    "565": {
+        "type": 70,
+        "rarity": 3
+    },
+    "566": {
+        "type": 71,
+        "rarity": 3
+    },
+    "567": {
+        "type": 72,
+        "rarity": 3
+    },
+    "568": {
+        "type": 73,
+        "rarity": 3
+    },
+    "569": {
+        "type": 74,
+        "rarity": 3
+    },
+    "570": {
+        "type": 75,
+        "rarity": 3
+    },
+    "571": {
+        "type": 76,
+        "rarity": 3
+    },
+    "572": {
+        "type": 77,
+        "rarity": 3
+    },
+    "573": {
+        "type": 78,
+        "rarity": 3
+    },
+    "574": {
+        "type": 79,
+        "rarity": 3
+    },
+    "575": {
+        "type": 80,
+        "rarity": 3
+    },
+    "576": {
+        "type": 3,
+        "rarity": 0
+    },
+    "577": {
+        "type": 82,
+        "rarity": 3
+    },
+    "578": {
+        "type": 83,
+        "rarity": 3
+    },
+    "579": {
+        "type": 84,
+        "rarity": 3
+    },
+    "580": {
+        "type": 85,
+        "rarity": 3
+    },
+    "581": {
+        "type": 86,
+        "rarity": 3
+    },
+    "582": {
+        "type": 87,
+        "rarity": 3
+    },
+    "583": {
+        "type": 88,
+        "rarity": 3
+    },
+    "584": {
+        "type": 89,
+        "rarity": 3
+    },
+    "585": {
+        "type": 45,
+        "rarity": 4
+    },
+    "586": {
+        "type": 46,
+        "rarity": 4
+    },
+    "587": {
+        "type": 47,
+        "rarity": 4
+    },
+    "588": {
+        "type": 3,
+        "rarity": 0
+    },
+    "589": {
+        "type": 49,
+        "rarity": 4
+    },
+    "590": {
+        "type": 50,
+        "rarity": 4
+    },
+    "591": {
+        "type": 51,
+        "rarity": 4
+    },
+    "592": {
+        "type": 52,
+        "rarity": 4
+    },
+    "593": {
+        "type": 53,
+        "rarity": 4
+    },
+    "594": {
+        "type": 54,
+        "rarity": 4
+    },
+    "595": {
+        "type": 55,
+        "rarity": 4
+    },
+    "596": {
+        "type": 56,
+        "rarity": 4
+    },
+    "597": {
+        "type": 57,
+        "rarity": 4
+    },
+    "598": {
+        "type": 58,
+        "rarity": 4
+    },
+    "599": {
+        "type": 59,
+        "rarity": 9
+    },
+    "600": {
+        "type": 60,
+        "rarity": 4
+    },
+    "601": {
+        "type": 61,
+        "rarity": 4
+    },
+    "602": {
+        "type": 62,
+        "rarity": 4
+    },
+    "603": {
+        "type": 63,
+        "rarity": 4
+    },
+    "604": {
+        "type": 64,
+        "rarity": 4
+    },
+    "605": {
+        "type": 65,
+        "rarity": 4
+    },
+    "606": {
+        "type": 66,
+        "rarity": 4
+    },
+    "607": {
+        "type": 67,
+        "rarity": 4
+    },
+    "608": {
+        "type": 68,
+        "rarity": 4
+    },
+    "609": {
+        "type": 3,
+        "rarity": 0
+    },
+    "610": {
+        "type": 70,
+        "rarity": 4
+    },
+    "611": {
+        "type": 71,
+        "rarity": 4
+    },
+    "612": {
+        "type": 72,
+        "rarity": 4
+    },
+    "613": {
+        "type": 73,
+        "rarity": 4
+    },
+    "614": {
+        "type": 74,
+        "rarity": 4
+    },
+    "615": {
+        "type": 75,
+        "rarity": 4
+    },
+    "616": {
+        "type": 76,
+        "rarity": 4
+    },
+    "617": {
+        "type": 77,
+        "rarity": 4
+    },
+    "618": {
+        "type": 78,
+        "rarity": 4
+    },
+    "619": {
+        "type": 79,
+        "rarity": 4
+    },
+    "620": {
+        "type": 80,
+        "rarity": 4
+    },
+    "621": {
+        "type": 3,
+        "rarity": 0
+    },
+    "622": {
+        "type": 82,
+        "rarity": 4
+    },
+    "623": {
+        "type": 83,
+        "rarity": 4
+    },
+    "624": {
+        "type": 84,
+        "rarity": 4
+    },
+    "625": {
+        "type": 85,
+        "rarity": 4
+    },
+    "626": {
+        "type": 86,
+        "rarity": 4
+    },
+    "627": {
+        "type": 87,
+        "rarity": 4
+    },
+    "628": {
+        "type": 88,
+        "rarity": 4
+    },
+    "629": {
+        "type": 89,
+        "rarity": 4
+    },
+    "630": {
+        "type": 45,
+        "rarity": 5
+    },
+    "631": {
+        "type": 46,
+        "rarity": 5
+    },
+    "632": {
+        "type": 47,
+        "rarity": 5
+    },
+    "633": {
+        "type": 3,
+        "rarity": 0
+    },
+    "634": {
+        "type": 49,
+        "rarity": 5
+    },
+    "635": {
+        "type": 50,
+        "rarity": 5
+    },
+    "636": {
+        "type": 51,
+        "rarity": 5
+    },
+    "637": {
+        "type": 52,
+        "rarity": 5
+    },
+    "638": {
+        "type": 53,
+        "rarity": 5
+    },
+    "639": {
+        "type": 54,
+        "rarity": 5
+    },
+    "640": {
+        "type": 55,
+        "rarity": 5
+    },
+    "641": {
+        "type": 56,
+        "rarity": 5
+    },
+    "642": {
+        "type": 57,
+        "rarity": 5
+    },
+    "643": {
+        "type": 58,
+        "rarity": 5
+    },
+    "644": {
+        "type": 59,
+        "rarity": 9
+    },
+    "645": {
+        "type": 60,
+        "rarity": 5
+    },
+    "646": {
+        "type": 61,
+        "rarity": 5
+    },
+    "647": {
+        "type": 62,
+        "rarity": 5
+    },
+    "648": {
+        "type": 63,
+        "rarity": 5
+    },
+    "649": {
+        "type": 64,
+        "rarity": 5
+    },
+    "650": {
+        "type": 65,
+        "rarity": 5
+    },
+    "651": {
+        "type": 66,
+        "rarity": 5
+    },
+    "652": {
+        "type": 67,
+        "rarity": 5
+    },
+    "653": {
+        "type": 68,
+        "rarity": 5
+    },
+    "654": {
+        "type": 3,
+        "rarity": 0
+    },
+    "655": {
+        "type": 70,
+        "rarity": 5
+    },
+    "656": {
+        "type": 71,
+        "rarity": 5
+    },
+    "657": {
+        "type": 72,
+        "rarity": 5
+    },
+    "658": {
+        "type": 73,
+        "rarity": 5
+    },
+    "659": {
+        "type": 74,
+        "rarity": 5
+    },
+    "660": {
+        "type": 75,
+        "rarity": 5
+    },
+    "661": {
+        "type": 76,
+        "rarity": 5
+    },
+    "662": {
+        "type": 77,
+        "rarity": 5
+    },
+    "663": {
+        "type": 78,
+        "rarity": 5
+    },
+    "664": {
+        "type": 79,
+        "rarity": 5
+    },
+    "665": {
+        "type": 80,
+        "rarity": 5
+    },
+    "666": {
+        "type": 3,
+        "rarity": 0
+    },
+    "667": {
+        "type": 82,
+        "rarity": 5
+    },
+    "668": {
+        "type": 83,
+        "rarity": 5
+    },
+    "669": {
+        "type": 84,
+        "rarity": 5
+    },
+    "670": {
+        "type": 85,
+        "rarity": 5
+    },
+    "671": {
+        "type": 86,
+        "rarity": 5
+    },
+    "672": {
+        "type": 87,
+        "rarity": 5
+    },
+    "673": {
+        "type": 88,
+        "rarity": 5
+    },
+    "674": {
+        "type": 89,
+        "rarity": 5
+    },
+    "675": {
+        "type": 45,
+        "rarity": 6
+    },
+    "676": {
+        "type": 46,
+        "rarity": 6
+    },
+    "677": {
+        "type": 47,
+        "rarity": 6
+    },
+    "678": {
+        "type": 3,
+        "rarity": 0
+    },
+    "679": {
+        "type": 49,
+        "rarity": 6
+    },
+    "680": {
+        "type": 50,
+        "rarity": 6
+    },
+    "681": {
+        "type": 51,
+        "rarity": 6
+    },
+    "682": {
+        "type": 52,
+        "rarity": 6
+    },
+    "683": {
+        "type": 53,
+        "rarity": 6
+    },
+    "684": {
+        "type": 54,
+        "rarity": 6
+    },
+    "685": {
+        "type": 55,
+        "rarity": 6
+    },
+    "686": {
+        "type": 56,
+        "rarity": 6
+    },
+    "687": {
+        "type": 57,
+        "rarity": 6
+    },
+    "688": {
+        "type": 58,
+        "rarity": 6
+    },
+    "689": {
+        "type": 59,
+        "rarity": 9
+    },
+    "690": {
+        "type": 60,
+        "rarity": 6
+    },
+    "691": {
+        "type": 61,
+        "rarity": 6
+    },
+    "692": {
+        "type": 62,
+        "rarity": 6
+    },
+    "693": {
+        "type": 63,
+        "rarity": 6
+    },
+    "694": {
+        "type": 64,
+        "rarity": 6
+    },
+    "695": {
+        "type": 65,
+        "rarity": 6
+    },
+    "696": {
+        "type": 66,
+        "rarity": 6
+    },
+    "697": {
+        "type": 67,
+        "rarity": 6
+    },
+    "698": {
+        "type": 68,
+        "rarity": 6
+    },
+    "699": {
+        "type": 3,
+        "rarity": 0
+    },
+    "700": {
+        "type": 70,
+        "rarity": 6
+    },
+    "701": {
+        "type": 71,
+        "rarity": 6
+    },
+    "702": {
+        "type": 72,
+        "rarity": 6
+    },
+    "703": {
+        "type": 73,
+        "rarity": 6
+    },
+    "704": {
+        "type": 74,
+        "rarity": 6
+    },
+    "705": {
+        "type": 75,
+        "rarity": 6
+    },
+    "706": {
+        "type": 76,
+        "rarity": 6
+    },
+    "707": {
+        "type": 77,
+        "rarity": 6
+    },
+    "708": {
+        "type": 78,
+        "rarity": 6
+    },
+    "709": {
+        "type": 79,
+        "rarity": 6
+    },
+    "710": {
+        "type": 80,
+        "rarity": 6
+    },
+    "711": {
+        "type": 3,
+        "rarity": 0
+    },
+    "712": {
+        "type": 82,
+        "rarity": 6
+    },
+    "713": {
+        "type": 83,
+        "rarity": 6
+    },
+    "714": {
+        "type": 84,
+        "rarity": 6
+    },
+    "715": {
+        "type": 85,
+        "rarity": 6
+    },
+    "716": {
+        "type": 86,
+        "rarity": 6
+    },
+    "717": {
+        "type": 87,
+        "rarity": 6
+    },
+    "718": {
+        "type": 88,
+        "rarity": 6
+    },
+    "719": {
+        "type": 89,
+        "rarity": 6
+    },
+    "720": {
+        "type": 45,
+        "rarity": 7
+    },
+    "721": {
+        "type": 46,
+        "rarity": 7
+    },
+    "722": {
+        "type": 47,
+        "rarity": 7
+    },
+    "723": {
+        "type": 3,
+        "rarity": 0
+    },
+    "724": {
+        "type": 49,
+        "rarity": 7
+    },
+    "725": {
+        "type": 50,
+        "rarity": 7
+    },
+    "726": {
+        "type": 51,
+        "rarity": 7
+    },
+    "727": {
+        "type": 52,
+        "rarity": 7
+    },
+    "728": {
+        "type": 53,
+        "rarity": 7
+    },
+    "729": {
+        "type": 54,
+        "rarity": 7
+    },
+    "730": {
+        "type": 55,
+        "rarity": 7
+    },
+    "731": {
+        "type": 56,
+        "rarity": 7
+    },
+    "732": {
+        "type": 57,
+        "rarity": 7
+    },
+    "733": {
+        "type": 58,
+        "rarity": 7
+    },
+    "734": {
+        "type": 59,
+        "rarity": 9
+    },
+    "735": {
+        "type": 60,
+        "rarity": 7
+    },
+    "736": {
+        "type": 61,
+        "rarity": 7
+    },
+    "737": {
+        "type": 62,
+        "rarity": 7
+    },
+    "738": {
+        "type": 63,
+        "rarity": 7
+    },
+    "739": {
+        "type": 64,
+        "rarity": 7
+    },
+    "740": {
+        "type": 65,
+        "rarity": 7
+    },
+    "741": {
+        "type": 66,
+        "rarity": 7
+    },
+    "742": {
+        "type": 67,
+        "rarity": 7
+    },
+    "743": {
+        "type": 68,
+        "rarity": 7
+    },
+    "744": {
+        "type": 3,
+        "rarity": 0
+    },
+    "745": {
+        "type": 70,
+        "rarity": 7
+    },
+    "746": {
+        "type": 71,
+        "rarity": 7
+    },
+    "747": {
+        "type": 72,
+        "rarity": 7
+    },
+    "748": {
+        "type": 73,
+        "rarity": 7
+    },
+    "749": {
+        "type": 74,
+        "rarity": 7
+    },
+    "750": {
+        "type": 75,
+        "rarity": 7
+    },
+    "751": {
+        "type": 76,
+        "rarity": 7
+    },
+    "752": {
+        "type": 77,
+        "rarity": 7
+    },
+    "753": {
+        "type": 78,
+        "rarity": 7
+    },
+    "754": {
+        "type": 79,
+        "rarity": 7
+    },
+    "755": {
+        "type": 80,
+        "rarity": 7
+    },
+    "756": {
+        "type": 3,
+        "rarity": 0
+    },
+    "757": {
+        "type": 82,
+        "rarity": 7
+    },
+    "758": {
+        "type": 83,
+        "rarity": 7
+    },
+    "759": {
+        "type": 84,
+        "rarity": 7
+    },
+    "760": {
+        "type": 85,
+        "rarity": 7
+    },
+    "761": {
+        "type": 86,
+        "rarity": 7
+    },
+    "762": {
+        "type": 87,
+        "rarity": 7
+    },
+    "763": {
+        "type": 88,
+        "rarity": 7
+    },
+    "764": {
+        "type": 89,
+        "rarity": 7
+    },
+    "765": {
+        "type": 45,
+        "rarity": 8
+    },
+    "766": {
+        "type": 46,
+        "rarity": 8
+    },
+    "767": {
+        "type": 47,
+        "rarity": 8
+    },
+    "768": {
+        "type": 3,
+        "rarity": 0
+    },
+    "769": {
+        "type": 49,
+        "rarity": 8
+    },
+    "770": {
+        "type": 50,
+        "rarity": 8
+    },
+    "771": {
+        "type": 51,
+        "rarity": 8
+    },
+    "772": {
+        "type": 52,
+        "rarity": 8
+    },
+    "773": {
+        "type": 53,
+        "rarity": 8
+    },
+    "774": {
+        "type": 54,
+        "rarity": 8
+    },
+    "775": {
+        "type": 55,
+        "rarity": 8
+    },
+    "776": {
+        "type": 56,
+        "rarity": 8
+    },
+    "777": {
+        "type": 57,
+        "rarity": 8
+    },
+    "778": {
+        "type": 58,
+        "rarity": 8
+    },
+    "779": {
+        "type": 59,
+        "rarity": 9
+    },
+    "780": {
+        "type": 60,
+        "rarity": 8
+    },
+    "781": {
+        "type": 61,
+        "rarity": 8
+    },
+    "782": {
+        "type": 62,
+        "rarity": 8
+    },
+    "783": {
+        "type": 63,
+        "rarity": 8
+    },
+    "784": {
+        "type": 64,
+        "rarity": 8
+    },
+    "785": {
+        "type": 65,
+        "rarity": 8
+    },
+    "786": {
+        "type": 66,
+        "rarity": 8
+    },
+    "787": {
+        "type": 67,
+        "rarity": 8
+    },
+    "788": {
+        "type": 68,
+        "rarity": 8
+    },
+    "789": {
+        "type": 3,
+        "rarity": 0
+    },
+    "790": {
+        "type": 70,
+        "rarity": 8
+    },
+    "791": {
+        "type": 71,
+        "rarity": 8
+    },
+    "792": {
+        "type": 72,
+        "rarity": 8
+    },
+    "793": {
+        "type": 73,
+        "rarity": 8
+    },
+    "794": {
+        "type": 74,
+        "rarity": 8
+    },
+    "795": {
+        "type": 75,
+        "rarity": 8
+    },
+    "796": {
+        "type": 76,
+        "rarity": 8
+    },
+    "797": {
+        "type": 77,
+        "rarity": 8
+    },
+    "798": {
+        "type": 78,
+        "rarity": 8
+    },
+    "799": {
+        "type": 79,
+        "rarity": 8
+    },
+    "800": {
+        "type": 80,
+        "rarity": 8
+    },
+    "801": {
+        "type": 3,
+        "rarity": 0
+    },
+    "802": {
+        "type": 82,
+        "rarity": 8
+    },
+    "803": {
+        "type": 83,
+        "rarity": 8
+    },
+    "804": {
+        "type": 84,
+        "rarity": 8
+    },
+    "805": {
+        "type": 85,
+        "rarity": 8
+    },
+    "806": {
+        "type": 86,
+        "rarity": 8
+    },
+    "807": {
+        "type": 87,
+        "rarity": 8
+    },
+    "808": {
+        "type": 88,
+        "rarity": 8
+    },
+    "809": {
+        "type": 89,
+        "rarity": 8
+    },
+    "810": {
+        "type": 90,
+        "rarity": 0
+    },
+    "811": {
+        "type": 91,
+        "rarity": 0
+    },
+    "812": {
+        "type": 92,
+        "rarity": 0
+    },
+    "813": {
+        "type": 3,
+        "rarity": 0
+    },
+    "814": {
+        "type": 94,
+        "rarity": 0
+    },
+    "815": {
+        "type": 95,
+        "rarity": 0
+    },
+    "816": {
+        "type": 96,
+        "rarity": 0
+    },
+    "817": {
+        "type": 97,
+        "rarity": 0
+    },
+    "818": {
+        "type": 98,
+        "rarity": 0
+    },
+    "819": {
+        "type": 99,
+        "rarity": 0
+    },
+    "820": {
+        "type": 100,
+        "rarity": 0
+    },
+    "821": {
+        "type": 101,
+        "rarity": 0
+    },
+    "822": {
+        "type": 102,
+        "rarity": 0
+    },
+    "823": {
+        "type": 103,
+        "rarity": 0
+    },
+    "824": {
+        "type": 104,
+        "rarity": 0
+    },
+    "825": {
+        "type": 105,
+        "rarity": 0
+    },
+    "826": {
+        "type": 106,
+        "rarity": 0
+    },
+    "827": {
+        "type": 107,
+        "rarity": 0
+    },
+    "828": {
+        "type": 108,
+        "rarity": 0
+    },
+    "829": {
+        "type": 109,
+        "rarity": 0
+    },
+    "830": {
+        "type": 110,
+        "rarity": 0
+    },
+    "831": {
+        "type": 111,
+        "rarity": 0
+    },
+    "832": {
+        "type": 112,
+        "rarity": 0
+    },
+    "833": {
+        "type": 3,
+        "rarity": 0
+    },
+    "834": {
+        "type": 114,
+        "rarity": 0
+    },
+    "835": {
+        "type": 115,
+        "rarity": 0
+    },
+    "836": {
+        "type": 116,
+        "rarity": 0
+    },
+    "837": {
+        "type": 3,
+        "rarity": 0
+    },
+    "838": {
+        "type": 118,
+        "rarity": 0
+    },
+    "839": {
+        "type": 119,
+        "rarity": 0
+    },
+    "840": {
+        "type": 120,
+        "rarity": 9
+    },
+    "841": {
+        "type": 121,
+        "rarity": 0
+    },
+    "842": {
+        "type": 122,
+        "rarity": 0
+    },
+    "843": {
+        "type": 123,
+        "rarity": 0
+    },
+    "844": {
+        "type": 124,
+        "rarity": 0
+    },
+    "845": {
+        "type": 125,
+        "rarity": 0
+    },
+    "846": {
+        "type": 126,
+        "rarity": 0
+    },
+    "847": {
+        "type": 127,
+        "rarity": 0
+    },
+    "848": {
+        "type": 128,
+        "rarity": 0
+    },
+    "849": {
+        "type": 129,
+        "rarity": 0
+    },
+    "850": {
+        "type": 130,
+        "rarity": 0
+    },
+    "851": {
+        "type": 131,
+        "rarity": 0
+    },
+    "852": {
+        "type": 132,
+        "rarity": 0
+    },
+    "853": {
+        "type": 133,
+        "rarity": 0
+    },
+    "854": {
+        "type": 134,
+        "rarity": 0
+    },
+    "855": {
+        "type": 90,
+        "rarity": 1
+    },
+    "856": {
+        "type": 91,
+        "rarity": 1
+    },
+    "857": {
+        "type": 92,
+        "rarity": 1
+    },
+    "858": {
+        "type": 3,
+        "rarity": 0
+    },
+    "859": {
+        "type": 94,
+        "rarity": 1
+    },
+    "860": {
+        "type": 95,
+        "rarity": 1
+    },
+    "861": {
+        "type": 96,
+        "rarity": 1
+    },
+    "862": {
+        "type": 97,
+        "rarity": 1
+    },
+    "863": {
+        "type": 98,
+        "rarity": 1
+    },
+    "864": {
+        "type": 99,
+        "rarity": 1
+    },
+    "865": {
+        "type": 100,
+        "rarity": 1
+    },
+    "866": {
+        "type": 101,
+        "rarity": 1
+    },
+    "867": {
+        "type": 102,
+        "rarity": 1
+    },
+    "868": {
+        "type": 103,
+        "rarity": 1
+    },
+    "869": {
+        "type": 104,
+        "rarity": 1
+    },
+    "870": {
+        "type": 105,
+        "rarity": 1
+    },
+    "871": {
+        "type": 106,
+        "rarity": 1
+    },
+    "872": {
+        "type": 107,
+        "rarity": 1
+    },
+    "873": {
+        "type": 108,
+        "rarity": 1
+    },
+    "874": {
+        "type": 109,
+        "rarity": 1
+    },
+    "875": {
+        "type": 110,
+        "rarity": 1
+    },
+    "876": {
+        "type": 111,
+        "rarity": 1
+    },
+    "877": {
+        "type": 112,
+        "rarity": 1
+    },
+    "878": {
+        "type": 3,
+        "rarity": 0
+    },
+    "879": {
+        "type": 114,
+        "rarity": 1
+    },
+    "880": {
+        "type": 115,
+        "rarity": 1
+    },
+    "881": {
+        "type": 116,
+        "rarity": 1
+    },
+    "882": {
+        "type": 3,
+        "rarity": 0
+    },
+    "883": {
+        "type": 118,
+        "rarity": 1
+    },
+    "884": {
+        "type": 119,
+        "rarity": 1
+    },
+    "885": {
+        "type": 120,
+        "rarity": 9
+    },
+    "886": {
+        "type": 121,
+        "rarity": 1
+    },
+    "887": {
+        "type": 122,
+        "rarity": 1
+    },
+    "888": {
+        "type": 123,
+        "rarity": 1
+    },
+    "889": {
+        "type": 124,
+        "rarity": 1
+    },
+    "890": {
+        "type": 125,
+        "rarity": 1
+    },
+    "891": {
+        "type": 126,
+        "rarity": 1
+    },
+    "892": {
+        "type": 127,
+        "rarity": 1
+    },
+    "893": {
+        "type": 128,
+        "rarity": 1
+    },
+    "894": {
+        "type": 129,
+        "rarity": 1
+    },
+    "895": {
+        "type": 130,
+        "rarity": 1
+    },
+    "896": {
+        "type": 131,
+        "rarity": 1
+    },
+    "897": {
+        "type": 132,
+        "rarity": 1
+    },
+    "898": {
+        "type": 133,
+        "rarity": 1
+    },
+    "899": {
+        "type": 134,
+        "rarity": 1
+    },
+    "900": {
+        "type": 90,
+        "rarity": 2
+    },
+    "901": {
+        "type": 91,
+        "rarity": 2
+    },
+    "902": {
+        "type": 92,
+        "rarity": 2
+    },
+    "903": {
+        "type": 3,
+        "rarity": 0
+    },
+    "904": {
+        "type": 94,
+        "rarity": 2
+    },
+    "905": {
+        "type": 95,
+        "rarity": 2
+    },
+    "906": {
+        "type": 96,
+        "rarity": 2
+    },
+    "907": {
+        "type": 97,
+        "rarity": 2
+    },
+    "908": {
+        "type": 98,
+        "rarity": 2
+    },
+    "909": {
+        "type": 99,
+        "rarity": 2
+    },
+    "910": {
+        "type": 100,
+        "rarity": 2
+    },
+    "911": {
+        "type": 101,
+        "rarity": 2
+    },
+    "912": {
+        "type": 102,
+        "rarity": 2
+    },
+    "913": {
+        "type": 103,
+        "rarity": 2
+    },
+    "914": {
+        "type": 104,
+        "rarity": 2
+    },
+    "915": {
+        "type": 105,
+        "rarity": 2
+    },
+    "916": {
+        "type": 106,
+        "rarity": 2
+    },
+    "917": {
+        "type": 107,
+        "rarity": 2
+    },
+    "918": {
+        "type": 108,
+        "rarity": 2
+    },
+    "919": {
+        "type": 109,
+        "rarity": 2
+    },
+    "920": {
+        "type": 110,
+        "rarity": 2
+    },
+    "921": {
+        "type": 111,
+        "rarity": 2
+    },
+    "922": {
+        "type": 112,
+        "rarity": 2
+    },
+    "923": {
+        "type": 3,
+        "rarity": 0
+    },
+    "924": {
+        "type": 114,
+        "rarity": 2
+    },
+    "925": {
+        "type": 115,
+        "rarity": 2
+    },
+    "926": {
+        "type": 116,
+        "rarity": 2
+    },
+    "927": {
+        "type": 3,
+        "rarity": 0
+    },
+    "928": {
+        "type": 118,
+        "rarity": 2
+    },
+    "929": {
+        "type": 119,
+        "rarity": 2
+    },
+    "930": {
+        "type": 120,
+        "rarity": 9
+    },
+    "931": {
+        "type": 121,
+        "rarity": 2
+    },
+    "932": {
+        "type": 122,
+        "rarity": 2
+    },
+    "933": {
+        "type": 123,
+        "rarity": 2
+    },
+    "934": {
+        "type": 124,
+        "rarity": 2
+    },
+    "935": {
+        "type": 125,
+        "rarity": 2
+    },
+    "936": {
+        "type": 126,
+        "rarity": 2
+    },
+    "937": {
+        "type": 127,
+        "rarity": 2
+    },
+    "938": {
+        "type": 128,
+        "rarity": 2
+    },
+    "939": {
+        "type": 129,
+        "rarity": 2
+    },
+    "940": {
+        "type": 130,
+        "rarity": 2
+    },
+    "941": {
+        "type": 131,
+        "rarity": 2
+    },
+    "942": {
+        "type": 132,
+        "rarity": 2
+    },
+    "943": {
+        "type": 133,
+        "rarity": 2
+    },
+    "944": {
+        "type": 134,
+        "rarity": 2
+    },
+    "945": {
+        "type": 90,
+        "rarity": 3
+    },
+    "946": {
+        "type": 91,
+        "rarity": 3
+    },
+    "947": {
+        "type": 92,
+        "rarity": 3
+    },
+    "948": {
+        "type": 3,
+        "rarity": 0
+    },
+    "949": {
+        "type": 94,
+        "rarity": 3
+    },
+    "950": {
+        "type": 95,
+        "rarity": 3
+    },
+    "951": {
+        "type": 96,
+        "rarity": 3
+    },
+    "952": {
+        "type": 97,
+        "rarity": 3
+    },
+    "953": {
+        "type": 98,
+        "rarity": 3
+    },
+    "954": {
+        "type": 99,
+        "rarity": 3
+    },
+    "955": {
+        "type": 100,
+        "rarity": 3
+    },
+    "956": {
+        "type": 101,
+        "rarity": 3
+    },
+    "957": {
+        "type": 102,
+        "rarity": 3
+    },
+    "958": {
+        "type": 103,
+        "rarity": 3
+    },
+    "959": {
+        "type": 104,
+        "rarity": 3
+    },
+    "960": {
+        "type": 105,
+        "rarity": 3
+    },
+    "961": {
+        "type": 106,
+        "rarity": 3
+    },
+    "962": {
+        "type": 107,
+        "rarity": 3
+    },
+    "963": {
+        "type": 108,
+        "rarity": 3
+    },
+    "964": {
+        "type": 109,
+        "rarity": 3
+    },
+    "965": {
+        "type": 110,
+        "rarity": 3
+    },
+    "966": {
+        "type": 111,
+        "rarity": 3
+    },
+    "967": {
+        "type": 112,
+        "rarity": 3
+    },
+    "968": {
+        "type": 3,
+        "rarity": 0
+    },
+    "969": {
+        "type": 114,
+        "rarity": 3
+    },
+    "970": {
+        "type": 115,
+        "rarity": 3
+    },
+    "971": {
+        "type": 116,
+        "rarity": 3
+    },
+    "972": {
+        "type": 3,
+        "rarity": 0
+    },
+    "973": {
+        "type": 118,
+        "rarity": 3
+    },
+    "974": {
+        "type": 119,
+        "rarity": 3
+    },
+    "975": {
+        "type": 120,
+        "rarity": 9
+    },
+    "976": {
+        "type": 121,
+        "rarity": 3
+    },
+    "977": {
+        "type": 122,
+        "rarity": 3
+    },
+    "978": {
+        "type": 123,
+        "rarity": 3
+    },
+    "979": {
+        "type": 124,
+        "rarity": 3
+    },
+    "980": {
+        "type": 125,
+        "rarity": 3
+    },
+    "981": {
+        "type": 126,
+        "rarity": 3
+    },
+    "982": {
+        "type": 127,
+        "rarity": 3
+    },
+    "983": {
+        "type": 128,
+        "rarity": 3
+    },
+    "984": {
+        "type": 129,
+        "rarity": 3
+    },
+    "985": {
+        "type": 130,
+        "rarity": 3
+    },
+    "986": {
+        "type": 131,
+        "rarity": 3
+    },
+    "987": {
+        "type": 132,
+        "rarity": 3
+    },
+    "988": {
+        "type": 133,
+        "rarity": 3
+    },
+    "989": {
+        "type": 134,
+        "rarity": 3
+    },
+    "990": {
+        "type": 90,
+        "rarity": 4
+    },
+    "991": {
+        "type": 91,
+        "rarity": 4
+    },
+    "992": {
+        "type": 92,
+        "rarity": 4
+    },
+    "993": {
+        "type": 3,
+        "rarity": 0
+    },
+    "994": {
+        "type": 94,
+        "rarity": 4
+    },
+    "995": {
+        "type": 95,
+        "rarity": 4
+    },
+    "996": {
+        "type": 96,
+        "rarity": 4
+    },
+    "997": {
+        "type": 97,
+        "rarity": 4
+    },
+    "998": {
+        "type": 98,
+        "rarity": 4
+    },
+    "999": {
+        "type": 99,
+        "rarity": 4
+    },
+    "1000": {
+        "type": 100,
+        "rarity": 4
+    },
+    "1001": {
+        "type": 101,
+        "rarity": 4
+    },
+    "1002": {
+        "type": 102,
+        "rarity": 4
+    },
+    "1003": {
+        "type": 103,
+        "rarity": 4
+    },
+    "1004": {
+        "type": 104,
+        "rarity": 4
+    },
+    "1005": {
+        "type": 105,
+        "rarity": 4
+    },
+    "1006": {
+        "type": 106,
+        "rarity": 4
+    },
+    "1007": {
+        "type": 107,
+        "rarity": 4
+    },
+    "1008": {
+        "type": 108,
+        "rarity": 4
+    },
+    "1009": {
+        "type": 109,
+        "rarity": 4
+    },
+    "1010": {
+        "type": 110,
+        "rarity": 4
+    },
+    "1011": {
+        "type": 111,
+        "rarity": 4
+    },
+    "1012": {
+        "type": 112,
+        "rarity": 4
+    },
+    "1013": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1014": {
+        "type": 114,
+        "rarity": 4
+    },
+    "1015": {
+        "type": 115,
+        "rarity": 4
+    },
+    "1016": {
+        "type": 116,
+        "rarity": 4
+    },
+    "1017": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1018": {
+        "type": 118,
+        "rarity": 4
+    },
+    "1019": {
+        "type": 119,
+        "rarity": 4
+    },
+    "1020": {
+        "type": 120,
+        "rarity": 9
+    },
+    "1021": {
+        "type": 121,
+        "rarity": 4
+    },
+    "1022": {
+        "type": 122,
+        "rarity": 4
+    },
+    "1023": {
+        "type": 123,
+        "rarity": 4
+    },
+    "1024": {
+        "type": 124,
+        "rarity": 4
+    },
+    "1025": {
+        "type": 125,
+        "rarity": 4
+    },
+    "1026": {
+        "type": 126,
+        "rarity": 4
+    },
+    "1027": {
+        "type": 127,
+        "rarity": 4
+    },
+    "1028": {
+        "type": 128,
+        "rarity": 4
+    },
+    "1029": {
+        "type": 129,
+        "rarity": 4
+    },
+    "1030": {
+        "type": 130,
+        "rarity": 4
+    },
+    "1031": {
+        "type": 131,
+        "rarity": 4
+    },
+    "1032": {
+        "type": 132,
+        "rarity": 4
+    },
+    "1033": {
+        "type": 133,
+        "rarity": 4
+    },
+    "1034": {
+        "type": 134,
+        "rarity": 4
+    },
+    "1035": {
+        "type": 90,
+        "rarity": 5
+    },
+    "1036": {
+        "type": 91,
+        "rarity": 5
+    },
+    "1037": {
+        "type": 92,
+        "rarity": 5
+    },
+    "1038": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1039": {
+        "type": 94,
+        "rarity": 5
+    },
+    "1040": {
+        "type": 95,
+        "rarity": 5
+    },
+    "1041": {
+        "type": 96,
+        "rarity": 5
+    },
+    "1042": {
+        "type": 97,
+        "rarity": 5
+    },
+    "1043": {
+        "type": 98,
+        "rarity": 5
+    },
+    "1044": {
+        "type": 99,
+        "rarity": 5
+    },
+    "1045": {
+        "type": 100,
+        "rarity": 5
+    },
+    "1046": {
+        "type": 101,
+        "rarity": 5
+    },
+    "1047": {
+        "type": 102,
+        "rarity": 5
+    },
+    "1048": {
+        "type": 103,
+        "rarity": 5
+    },
+    "1049": {
+        "type": 104,
+        "rarity": 5
+    },
+    "1050": {
+        "type": 105,
+        "rarity": 5
+    },
+    "1051": {
+        "type": 106,
+        "rarity": 5
+    },
+    "1052": {
+        "type": 107,
+        "rarity": 5
+    },
+    "1053": {
+        "type": 108,
+        "rarity": 5
+    },
+    "1054": {
+        "type": 109,
+        "rarity": 5
+    },
+    "1055": {
+        "type": 110,
+        "rarity": 5
+    },
+    "1056": {
+        "type": 111,
+        "rarity": 5
+    },
+    "1057": {
+        "type": 112,
+        "rarity": 5
+    },
+    "1058": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1059": {
+        "type": 114,
+        "rarity": 5
+    },
+    "1060": {
+        "type": 115,
+        "rarity": 5
+    },
+    "1061": {
+        "type": 116,
+        "rarity": 5
+    },
+    "1062": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1063": {
+        "type": 118,
+        "rarity": 5
+    },
+    "1064": {
+        "type": 119,
+        "rarity": 5
+    },
+    "1065": {
+        "type": 120,
+        "rarity": 9
+    },
+    "1066": {
+        "type": 121,
+        "rarity": 5
+    },
+    "1067": {
+        "type": 122,
+        "rarity": 5
+    },
+    "1068": {
+        "type": 123,
+        "rarity": 5
+    },
+    "1069": {
+        "type": 124,
+        "rarity": 5
+    },
+    "1070": {
+        "type": 125,
+        "rarity": 5
+    },
+    "1071": {
+        "type": 126,
+        "rarity": 5
+    },
+    "1072": {
+        "type": 127,
+        "rarity": 5
+    },
+    "1073": {
+        "type": 128,
+        "rarity": 5
+    },
+    "1074": {
+        "type": 129,
+        "rarity": 5
+    },
+    "1075": {
+        "type": 130,
+        "rarity": 5
+    },
+    "1076": {
+        "type": 131,
+        "rarity": 5
+    },
+    "1077": {
+        "type": 132,
+        "rarity": 5
+    },
+    "1078": {
+        "type": 133,
+        "rarity": 5
+    },
+    "1079": {
+        "type": 134,
+        "rarity": 5
+    },
+    "1080": {
+        "type": 90,
+        "rarity": 6
+    },
+    "1081": {
+        "type": 91,
+        "rarity": 6
+    },
+    "1082": {
+        "type": 92,
+        "rarity": 6
+    },
+    "1083": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1084": {
+        "type": 94,
+        "rarity": 6
+    },
+    "1085": {
+        "type": 95,
+        "rarity": 6
+    },
+    "1086": {
+        "type": 96,
+        "rarity": 6
+    },
+    "1087": {
+        "type": 97,
+        "rarity": 6
+    },
+    "1088": {
+        "type": 98,
+        "rarity": 6
+    },
+    "1089": {
+        "type": 99,
+        "rarity": 6
+    },
+    "1090": {
+        "type": 100,
+        "rarity": 6
+    },
+    "1091": {
+        "type": 101,
+        "rarity": 6
+    },
+    "1092": {
+        "type": 102,
+        "rarity": 6
+    },
+    "1093": {
+        "type": 103,
+        "rarity": 6
+    },
+    "1094": {
+        "type": 104,
+        "rarity": 6
+    },
+    "1095": {
+        "type": 105,
+        "rarity": 6
+    },
+    "1096": {
+        "type": 106,
+        "rarity": 6
+    },
+    "1097": {
+        "type": 107,
+        "rarity": 6
+    },
+    "1098": {
+        "type": 108,
+        "rarity": 6
+    },
+    "1099": {
+        "type": 109,
+        "rarity": 6
+    },
+    "1100": {
+        "type": 110,
+        "rarity": 6
+    },
+    "1101": {
+        "type": 111,
+        "rarity": 6
+    },
+    "1102": {
+        "type": 112,
+        "rarity": 6
+    },
+    "1103": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1104": {
+        "type": 114,
+        "rarity": 6
+    },
+    "1105": {
+        "type": 115,
+        "rarity": 6
+    },
+    "1106": {
+        "type": 116,
+        "rarity": 6
+    },
+    "1107": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1108": {
+        "type": 118,
+        "rarity": 6
+    },
+    "1109": {
+        "type": 119,
+        "rarity": 6
+    },
+    "1110": {
+        "type": 120,
+        "rarity": 9
+    },
+    "1111": {
+        "type": 121,
+        "rarity": 6
+    },
+    "1112": {
+        "type": 122,
+        "rarity": 6
+    },
+    "1113": {
+        "type": 123,
+        "rarity": 6
+    },
+    "1114": {
+        "type": 124,
+        "rarity": 6
+    },
+    "1115": {
+        "type": 125,
+        "rarity": 6
+    },
+    "1116": {
+        "type": 126,
+        "rarity": 6
+    },
+    "1117": {
+        "type": 127,
+        "rarity": 6
+    },
+    "1118": {
+        "type": 128,
+        "rarity": 6
+    },
+    "1119": {
+        "type": 129,
+        "rarity": 6
+    },
+    "1120": {
+        "type": 130,
+        "rarity": 6
+    },
+    "1121": {
+        "type": 131,
+        "rarity": 6
+    },
+    "1122": {
+        "type": 132,
+        "rarity": 6
+    },
+    "1123": {
+        "type": 133,
+        "rarity": 6
+    },
+    "1124": {
+        "type": 134,
+        "rarity": 6
+    },
+    "1125": {
+        "type": 90,
+        "rarity": 7
+    },
+    "1126": {
+        "type": 91,
+        "rarity": 7
+    },
+    "1127": {
+        "type": 92,
+        "rarity": 7
+    },
+    "1128": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1129": {
+        "type": 94,
+        "rarity": 7
+    },
+    "1130": {
+        "type": 95,
+        "rarity": 7
+    },
+    "1131": {
+        "type": 96,
+        "rarity": 7
+    },
+    "1132": {
+        "type": 97,
+        "rarity": 7
+    },
+    "1133": {
+        "type": 98,
+        "rarity": 7
+    },
+    "1134": {
+        "type": 99,
+        "rarity": 7
+    },
+    "1135": {
+        "type": 100,
+        "rarity": 7
+    },
+    "1136": {
+        "type": 101,
+        "rarity": 7
+    },
+    "1137": {
+        "type": 102,
+        "rarity": 7
+    },
+    "1138": {
+        "type": 103,
+        "rarity": 7
+    },
+    "1139": {
+        "type": 104,
+        "rarity": 7
+    },
+    "1140": {
+        "type": 105,
+        "rarity": 7
+    },
+    "1141": {
+        "type": 106,
+        "rarity": 7
+    },
+    "1142": {
+        "type": 107,
+        "rarity": 7
+    },
+    "1143": {
+        "type": 108,
+        "rarity": 7
+    },
+    "1144": {
+        "type": 109,
+        "rarity": 7
+    },
+    "1145": {
+        "type": 110,
+        "rarity": 7
+    },
+    "1146": {
+        "type": 111,
+        "rarity": 7
+    },
+    "1147": {
+        "type": 112,
+        "rarity": 7
+    },
+    "1148": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1149": {
+        "type": 114,
+        "rarity": 7
+    },
+    "1150": {
+        "type": 115,
+        "rarity": 7
+    },
+    "1151": {
+        "type": 116,
+        "rarity": 7
+    },
+    "1152": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1153": {
+        "type": 118,
+        "rarity": 7
+    },
+    "1154": {
+        "type": 119,
+        "rarity": 7
+    },
+    "1155": {
+        "type": 120,
+        "rarity": 9
+    },
+    "1156": {
+        "type": 121,
+        "rarity": 7
+    },
+    "1157": {
+        "type": 122,
+        "rarity": 7
+    },
+    "1158": {
+        "type": 123,
+        "rarity": 7
+    },
+    "1159": {
+        "type": 124,
+        "rarity": 7
+    },
+    "1160": {
+        "type": 125,
+        "rarity": 7
+    },
+    "1161": {
+        "type": 126,
+        "rarity": 7
+    },
+    "1162": {
+        "type": 127,
+        "rarity": 7
+    },
+    "1163": {
+        "type": 128,
+        "rarity": 7
+    },
+    "1164": {
+        "type": 129,
+        "rarity": 7
+    },
+    "1165": {
+        "type": 130,
+        "rarity": 7
+    },
+    "1166": {
+        "type": 131,
+        "rarity": 7
+    },
+    "1167": {
+        "type": 132,
+        "rarity": 7
+    },
+    "1168": {
+        "type": 133,
+        "rarity": 7
+    },
+    "1169": {
+        "type": 134,
+        "rarity": 7
+    },
+    "1170": {
+        "type": 90,
+        "rarity": 8
+    },
+    "1171": {
+        "type": 91,
+        "rarity": 8
+    },
+    "1172": {
+        "type": 92,
+        "rarity": 8
+    },
+    "1173": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1174": {
+        "type": 94,
+        "rarity": 8
+    },
+    "1175": {
+        "type": 95,
+        "rarity": 8
+    },
+    "1176": {
+        "type": 96,
+        "rarity": 8
+    },
+    "1177": {
+        "type": 97,
+        "rarity": 8
+    },
+    "1178": {
+        "type": 98,
+        "rarity": 8
+    },
+    "1179": {
+        "type": 99,
+        "rarity": 8
+    },
+    "1180": {
+        "type": 100,
+        "rarity": 8
+    },
+    "1181": {
+        "type": 101,
+        "rarity": 8
+    },
+    "1182": {
+        "type": 102,
+        "rarity": 8
+    },
+    "1183": {
+        "type": 103,
+        "rarity": 8
+    },
+    "1184": {
+        "type": 104,
+        "rarity": 8
+    },
+    "1185": {
+        "type": 105,
+        "rarity": 8
+    },
+    "1186": {
+        "type": 106,
+        "rarity": 8
+    },
+    "1187": {
+        "type": 107,
+        "rarity": 8
+    },
+    "1188": {
+        "type": 108,
+        "rarity": 8
+    },
+    "1189": {
+        "type": 109,
+        "rarity": 8
+    },
+    "1190": {
+        "type": 110,
+        "rarity": 8
+    },
+    "1191": {
+        "type": 111,
+        "rarity": 8
+    },
+    "1192": {
+        "type": 112,
+        "rarity": 8
+    },
+    "1193": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1194": {
+        "type": 114,
+        "rarity": 8
+    },
+    "1195": {
+        "type": 115,
+        "rarity": 8
+    },
+    "1196": {
+        "type": 116,
+        "rarity": 8
+    },
+    "1197": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1198": {
+        "type": 118,
+        "rarity": 8
+    },
+    "1199": {
+        "type": 119,
+        "rarity": 8
+    },
+    "1200": {
+        "type": 120,
+        "rarity": 9
+    },
+    "1201": {
+        "type": 121,
+        "rarity": 8
+    },
+    "1202": {
+        "type": 122,
+        "rarity": 8
+    },
+    "1203": {
+        "type": 123,
+        "rarity": 8
+    },
+    "1204": {
+        "type": 124,
+        "rarity": 8
+    },
+    "1205": {
+        "type": 125,
+        "rarity": 8
+    },
+    "1206": {
+        "type": 126,
+        "rarity": 8
+    },
+    "1207": {
+        "type": 127,
+        "rarity": 8
+    },
+    "1208": {
+        "type": 128,
+        "rarity": 8
+    },
+    "1209": {
+        "type": 129,
+        "rarity": 8
+    },
+    "1210": {
+        "type": 130,
+        "rarity": 8
+    },
+    "1211": {
+        "type": 131,
+        "rarity": 8
+    },
+    "1212": {
+        "type": 132,
+        "rarity": 8
+    },
+    "1213": {
+        "type": 133,
+        "rarity": 8
+    },
+    "1214": {
+        "type": 134,
+        "rarity": 8
+    },
+    "1215": {
+        "type": 135,
+        "rarity": 0
+    },
+    "1216": {
+        "type": 136,
+        "rarity": 0
+    },
+    "1217": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1218": {
+        "type": 138,
+        "rarity": 0
+    },
+    "1219": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1220": {
+        "type": 140,
+        "rarity": 0
+    },
+    "1221": {
+        "type": 141,
+        "rarity": 0
+    },
+    "1222": {
+        "type": 142,
+        "rarity": 0
+    },
+    "1223": {
+        "type": 143,
+        "rarity": 0
+    },
+    "1224": {
+        "type": 144,
+        "rarity": 0
+    },
+    "1225": {
+        "type": 145,
+        "rarity": 0
+    },
+    "1226": {
+        "type": 146,
+        "rarity": 0
+    },
+    "1227": {
+        "type": 147,
+        "rarity": 0
+    },
+    "1228": {
+        "type": 148,
+        "rarity": 0
+    },
+    "1229": {
+        "type": 149,
+        "rarity": 0
+    },
+    "1230": {
+        "type": 150,
+        "rarity": 0
+    },
+    "1231": {
+        "type": 151,
+        "rarity": 0
+    },
+    "1232": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1233": {
+        "type": 153,
+        "rarity": 0
+    },
+    "1234": {
+        "type": 154,
+        "rarity": 0
+    },
+    "1235": {
+        "type": 155,
+        "rarity": 0
+    },
+    "1236": {
+        "type": 156,
+        "rarity": 0
+    },
+    "1237": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1238": {
+        "type": 158,
+        "rarity": 0
+    },
+    "1239": {
+        "type": 159,
+        "rarity": 0
+    },
+    "1240": {
+        "type": 160,
+        "rarity": 0
+    },
+    "1241": {
+        "type": 161,
+        "rarity": 0
+    },
+    "1242": {
+        "type": 162,
+        "rarity": 0
+    },
+    "1243": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1244": {
+        "type": 164,
+        "rarity": 0
+    },
+    "1245": {
+        "type": 165,
+        "rarity": 0
+    },
+    "1246": {
+        "type": 166,
+        "rarity": 0
+    },
+    "1247": {
+        "type": 167,
+        "rarity": 0
+    },
+    "1248": {
+        "type": 168,
+        "rarity": 0
+    },
+    "1249": {
+        "type": 169,
+        "rarity": 0
+    },
+    "1250": {
+        "type": 170,
+        "rarity": 0
+    },
+    "1251": {
+        "type": 171,
+        "rarity": 0
+    },
+    "1252": {
+        "type": 172,
+        "rarity": 0
+    },
+    "1253": {
+        "type": 173,
+        "rarity": 0
+    },
+    "1254": {
+        "type": 174,
+        "rarity": 0
+    },
+    "1255": {
+        "type": 175,
+        "rarity": 0
+    },
+    "1256": {
+        "type": 176,
+        "rarity": 0
+    },
+    "1257": {
+        "type": 177,
+        "rarity": 0
+    },
+    "1258": {
+        "type": 178,
+        "rarity": 0
+    },
+    "1259": {
+        "type": 179,
+        "rarity": 0
+    },
+    "1260": {
+        "type": 135,
+        "rarity": 1
+    },
+    "1261": {
+        "type": 136,
+        "rarity": 1
+    },
+    "1262": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1263": {
+        "type": 138,
+        "rarity": 1
+    },
+    "1264": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1265": {
+        "type": 140,
+        "rarity": 1
+    },
+    "1266": {
+        "type": 141,
+        "rarity": 1
+    },
+    "1267": {
+        "type": 142,
+        "rarity": 1
+    },
+    "1268": {
+        "type": 143,
+        "rarity": 1
+    },
+    "1269": {
+        "type": 144,
+        "rarity": 1
+    },
+    "1270": {
+        "type": 145,
+        "rarity": 1
+    },
+    "1271": {
+        "type": 146,
+        "rarity": 1
+    },
+    "1272": {
+        "type": 147,
+        "rarity": 1
+    },
+    "1273": {
+        "type": 148,
+        "rarity": 1
+    },
+    "1274": {
+        "type": 149,
+        "rarity": 1
+    },
+    "1275": {
+        "type": 150,
+        "rarity": 1
+    },
+    "1276": {
+        "type": 151,
+        "rarity": 1
+    },
+    "1277": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1278": {
+        "type": 153,
+        "rarity": 1
+    },
+    "1279": {
+        "type": 154,
+        "rarity": 1
+    },
+    "1280": {
+        "type": 155,
+        "rarity": 1
+    },
+    "1281": {
+        "type": 156,
+        "rarity": 1
+    },
+    "1282": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1283": {
+        "type": 158,
+        "rarity": 1
+    },
+    "1284": {
+        "type": 159,
+        "rarity": 1
+    },
+    "1285": {
+        "type": 160,
+        "rarity": 1
+    },
+    "1286": {
+        "type": 161,
+        "rarity": 1
+    },
+    "1287": {
+        "type": 162,
+        "rarity": 1
+    },
+    "1288": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1289": {
+        "type": 164,
+        "rarity": 1
+    },
+    "1290": {
+        "type": 165,
+        "rarity": 1
+    },
+    "1291": {
+        "type": 166,
+        "rarity": 1
+    },
+    "1292": {
+        "type": 167,
+        "rarity": 1
+    },
+    "1293": {
+        "type": 168,
+        "rarity": 1
+    },
+    "1294": {
+        "type": 169,
+        "rarity": 1
+    },
+    "1295": {
+        "type": 170,
+        "rarity": 1
+    },
+    "1296": {
+        "type": 171,
+        "rarity": 1
+    },
+    "1297": {
+        "type": 172,
+        "rarity": 1
+    },
+    "1298": {
+        "type": 173,
+        "rarity": 1
+    },
+    "1299": {
+        "type": 174,
+        "rarity": 1
+    },
+    "1300": {
+        "type": 175,
+        "rarity": 1
+    },
+    "1301": {
+        "type": 176,
+        "rarity": 1
+    },
+    "1302": {
+        "type": 177,
+        "rarity": 1
+    },
+    "1303": {
+        "type": 178,
+        "rarity": 1
+    },
+    "1304": {
+        "type": 179,
+        "rarity": 1
+    },
+    "1305": {
+        "type": 135,
+        "rarity": 2
+    },
+    "1306": {
+        "type": 136,
+        "rarity": 2
+    },
+    "1307": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1308": {
+        "type": 138,
+        "rarity": 2
+    },
+    "1309": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1310": {
+        "type": 140,
+        "rarity": 2
+    },
+    "1311": {
+        "type": 141,
+        "rarity": 2
+    },
+    "1312": {
+        "type": 142,
+        "rarity": 2
+    },
+    "1313": {
+        "type": 143,
+        "rarity": 2
+    },
+    "1314": {
+        "type": 144,
+        "rarity": 2
+    },
+    "1315": {
+        "type": 145,
+        "rarity": 2
+    },
+    "1316": {
+        "type": 146,
+        "rarity": 2
+    },
+    "1317": {
+        "type": 147,
+        "rarity": 2
+    },
+    "1318": {
+        "type": 148,
+        "rarity": 2
+    },
+    "1319": {
+        "type": 149,
+        "rarity": 2
+    },
+    "1320": {
+        "type": 150,
+        "rarity": 2
+    },
+    "1321": {
+        "type": 151,
+        "rarity": 2
+    },
+    "1322": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1323": {
+        "type": 153,
+        "rarity": 2
+    },
+    "1324": {
+        "type": 154,
+        "rarity": 2
+    },
+    "1325": {
+        "type": 155,
+        "rarity": 2
+    },
+    "1326": {
+        "type": 156,
+        "rarity": 2
+    },
+    "1327": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1328": {
+        "type": 158,
+        "rarity": 2
+    },
+    "1329": {
+        "type": 159,
+        "rarity": 2
+    },
+    "1330": {
+        "type": 160,
+        "rarity": 2
+    },
+    "1331": {
+        "type": 161,
+        "rarity": 2
+    },
+    "1332": {
+        "type": 162,
+        "rarity": 2
+    },
+    "1333": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1334": {
+        "type": 164,
+        "rarity": 2
+    },
+    "1335": {
+        "type": 165,
+        "rarity": 2
+    },
+    "1336": {
+        "type": 166,
+        "rarity": 2
+    },
+    "1337": {
+        "type": 167,
+        "rarity": 2
+    },
+    "1338": {
+        "type": 168,
+        "rarity": 2
+    },
+    "1339": {
+        "type": 169,
+        "rarity": 2
+    },
+    "1340": {
+        "type": 170,
+        "rarity": 2
+    },
+    "1341": {
+        "type": 171,
+        "rarity": 2
+    },
+    "1342": {
+        "type": 172,
+        "rarity": 2
+    },
+    "1343": {
+        "type": 173,
+        "rarity": 2
+    },
+    "1344": {
+        "type": 174,
+        "rarity": 2
+    },
+    "1345": {
+        "type": 175,
+        "rarity": 2
+    },
+    "1346": {
+        "type": 176,
+        "rarity": 2
+    },
+    "1347": {
+        "type": 177,
+        "rarity": 2
+    },
+    "1348": {
+        "type": 178,
+        "rarity": 2
+    },
+    "1349": {
+        "type": 179,
+        "rarity": 2
+    },
+    "1350": {
+        "type": 135,
+        "rarity": 3
+    },
+    "1351": {
+        "type": 136,
+        "rarity": 3
+    },
+    "1352": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1353": {
+        "type": 138,
+        "rarity": 3
+    },
+    "1354": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1355": {
+        "type": 140,
+        "rarity": 3
+    },
+    "1356": {
+        "type": 141,
+        "rarity": 3
+    },
+    "1357": {
+        "type": 142,
+        "rarity": 3
+    },
+    "1358": {
+        "type": 143,
+        "rarity": 3
+    },
+    "1359": {
+        "type": 144,
+        "rarity": 3
+    },
+    "1360": {
+        "type": 145,
+        "rarity": 3
+    },
+    "1361": {
+        "type": 146,
+        "rarity": 3
+    },
+    "1362": {
+        "type": 147,
+        "rarity": 3
+    },
+    "1363": {
+        "type": 148,
+        "rarity": 3
+    },
+    "1364": {
+        "type": 149,
+        "rarity": 3
+    },
+    "1365": {
+        "type": 150,
+        "rarity": 3
+    },
+    "1366": {
+        "type": 151,
+        "rarity": 3
+    },
+    "1367": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1368": {
+        "type": 153,
+        "rarity": 3
+    },
+    "1369": {
+        "type": 154,
+        "rarity": 3
+    },
+    "1370": {
+        "type": 155,
+        "rarity": 3
+    },
+    "1371": {
+        "type": 156,
+        "rarity": 3
+    },
+    "1372": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1373": {
+        "type": 158,
+        "rarity": 3
+    },
+    "1374": {
+        "type": 159,
+        "rarity": 3
+    },
+    "1375": {
+        "type": 160,
+        "rarity": 3
+    },
+    "1376": {
+        "type": 161,
+        "rarity": 3
+    },
+    "1377": {
+        "type": 162,
+        "rarity": 3
+    },
+    "1378": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1379": {
+        "type": 164,
+        "rarity": 3
+    },
+    "1380": {
+        "type": 165,
+        "rarity": 3
+    },
+    "1381": {
+        "type": 166,
+        "rarity": 3
+    },
+    "1382": {
+        "type": 167,
+        "rarity": 3
+    },
+    "1383": {
+        "type": 168,
+        "rarity": 3
+    },
+    "1384": {
+        "type": 169,
+        "rarity": 3
+    },
+    "1385": {
+        "type": 170,
+        "rarity": 3
+    },
+    "1386": {
+        "type": 171,
+        "rarity": 3
+    },
+    "1387": {
+        "type": 172,
+        "rarity": 3
+    },
+    "1388": {
+        "type": 173,
+        "rarity": 3
+    },
+    "1389": {
+        "type": 174,
+        "rarity": 3
+    },
+    "1390": {
+        "type": 175,
+        "rarity": 3
+    },
+    "1391": {
+        "type": 176,
+        "rarity": 3
+    },
+    "1392": {
+        "type": 177,
+        "rarity": 3
+    },
+    "1393": {
+        "type": 178,
+        "rarity": 3
+    },
+    "1394": {
+        "type": 179,
+        "rarity": 3
+    },
+    "1395": {
+        "type": 135,
+        "rarity": 4
+    },
+    "1396": {
+        "type": 136,
+        "rarity": 4
+    },
+    "1397": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1398": {
+        "type": 138,
+        "rarity": 4
+    },
+    "1399": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1400": {
+        "type": 140,
+        "rarity": 4
+    },
+    "1401": {
+        "type": 141,
+        "rarity": 4
+    },
+    "1402": {
+        "type": 142,
+        "rarity": 4
+    },
+    "1403": {
+        "type": 143,
+        "rarity": 4
+    },
+    "1404": {
+        "type": 144,
+        "rarity": 4
+    },
+    "1405": {
+        "type": 145,
+        "rarity": 4
+    },
+    "1406": {
+        "type": 146,
+        "rarity": 4
+    },
+    "1407": {
+        "type": 147,
+        "rarity": 4
+    },
+    "1408": {
+        "type": 148,
+        "rarity": 4
+    },
+    "1409": {
+        "type": 149,
+        "rarity": 4
+    },
+    "1410": {
+        "type": 150,
+        "rarity": 4
+    },
+    "1411": {
+        "type": 151,
+        "rarity": 4
+    },
+    "1412": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1413": {
+        "type": 153,
+        "rarity": 4
+    },
+    "1414": {
+        "type": 154,
+        "rarity": 4
+    },
+    "1415": {
+        "type": 155,
+        "rarity": 4
+    },
+    "1416": {
+        "type": 156,
+        "rarity": 4
+    },
+    "1417": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1418": {
+        "type": 158,
+        "rarity": 4
+    },
+    "1419": {
+        "type": 159,
+        "rarity": 4
+    },
+    "1420": {
+        "type": 160,
+        "rarity": 4
+    },
+    "1421": {
+        "type": 161,
+        "rarity": 4
+    },
+    "1422": {
+        "type": 162,
+        "rarity": 4
+    },
+    "1423": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1424": {
+        "type": 164,
+        "rarity": 4
+    },
+    "1425": {
+        "type": 165,
+        "rarity": 4
+    },
+    "1426": {
+        "type": 166,
+        "rarity": 4
+    },
+    "1427": {
+        "type": 167,
+        "rarity": 4
+    },
+    "1428": {
+        "type": 168,
+        "rarity": 4
+    },
+    "1429": {
+        "type": 169,
+        "rarity": 4
+    },
+    "1430": {
+        "type": 170,
+        "rarity": 4
+    },
+    "1431": {
+        "type": 171,
+        "rarity": 4
+    },
+    "1432": {
+        "type": 172,
+        "rarity": 4
+    },
+    "1433": {
+        "type": 173,
+        "rarity": 4
+    },
+    "1434": {
+        "type": 174,
+        "rarity": 4
+    },
+    "1435": {
+        "type": 175,
+        "rarity": 4
+    },
+    "1436": {
+        "type": 176,
+        "rarity": 4
+    },
+    "1437": {
+        "type": 177,
+        "rarity": 4
+    },
+    "1438": {
+        "type": 178,
+        "rarity": 4
+    },
+    "1439": {
+        "type": 179,
+        "rarity": 4
+    },
+    "1440": {
+        "type": 135,
+        "rarity": 5
+    },
+    "1441": {
+        "type": 136,
+        "rarity": 5
+    },
+    "1442": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1443": {
+        "type": 138,
+        "rarity": 5
+    },
+    "1444": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1445": {
+        "type": 140,
+        "rarity": 5
+    },
+    "1446": {
+        "type": 141,
+        "rarity": 5
+    },
+    "1447": {
+        "type": 142,
+        "rarity": 5
+    },
+    "1448": {
+        "type": 143,
+        "rarity": 5
+    },
+    "1449": {
+        "type": 144,
+        "rarity": 5
+    },
+    "1450": {
+        "type": 145,
+        "rarity": 5
+    },
+    "1451": {
+        "type": 146,
+        "rarity": 5
+    },
+    "1452": {
+        "type": 147,
+        "rarity": 5
+    },
+    "1453": {
+        "type": 148,
+        "rarity": 5
+    },
+    "1454": {
+        "type": 149,
+        "rarity": 5
+    },
+    "1455": {
+        "type": 150,
+        "rarity": 5
+    },
+    "1456": {
+        "type": 151,
+        "rarity": 5
+    },
+    "1457": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1458": {
+        "type": 153,
+        "rarity": 5
+    },
+    "1459": {
+        "type": 154,
+        "rarity": 5
+    },
+    "1460": {
+        "type": 155,
+        "rarity": 5
+    },
+    "1461": {
+        "type": 156,
+        "rarity": 5
+    },
+    "1462": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1463": {
+        "type": 158,
+        "rarity": 5
+    },
+    "1464": {
+        "type": 159,
+        "rarity": 5
+    },
+    "1465": {
+        "type": 160,
+        "rarity": 5
+    },
+    "1466": {
+        "type": 161,
+        "rarity": 5
+    },
+    "1467": {
+        "type": 162,
+        "rarity": 5
+    },
+    "1468": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1469": {
+        "type": 164,
+        "rarity": 5
+    },
+    "1470": {
+        "type": 165,
+        "rarity": 5
+    },
+    "1471": {
+        "type": 166,
+        "rarity": 5
+    },
+    "1472": {
+        "type": 167,
+        "rarity": 5
+    },
+    "1473": {
+        "type": 168,
+        "rarity": 5
+    },
+    "1474": {
+        "type": 169,
+        "rarity": 5
+    },
+    "1475": {
+        "type": 170,
+        "rarity": 5
+    },
+    "1476": {
+        "type": 171,
+        "rarity": 5
+    },
+    "1477": {
+        "type": 172,
+        "rarity": 5
+    },
+    "1478": {
+        "type": 173,
+        "rarity": 5
+    },
+    "1479": {
+        "type": 174,
+        "rarity": 5
+    },
+    "1480": {
+        "type": 175,
+        "rarity": 5
+    },
+    "1481": {
+        "type": 176,
+        "rarity": 5
+    },
+    "1482": {
+        "type": 177,
+        "rarity": 5
+    },
+    "1483": {
+        "type": 178,
+        "rarity": 5
+    },
+    "1484": {
+        "type": 179,
+        "rarity": 5
+    },
+    "1485": {
+        "type": 135,
+        "rarity": 6
+    },
+    "1486": {
+        "type": 136,
+        "rarity": 6
+    },
+    "1487": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1488": {
+        "type": 138,
+        "rarity": 6
+    },
+    "1489": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1490": {
+        "type": 140,
+        "rarity": 6
+    },
+    "1491": {
+        "type": 141,
+        "rarity": 6
+    },
+    "1492": {
+        "type": 142,
+        "rarity": 6
+    },
+    "1493": {
+        "type": 143,
+        "rarity": 6
+    },
+    "1494": {
+        "type": 144,
+        "rarity": 6
+    },
+    "1495": {
+        "type": 145,
+        "rarity": 6
+    },
+    "1496": {
+        "type": 146,
+        "rarity": 6
+    },
+    "1497": {
+        "type": 147,
+        "rarity": 6
+    },
+    "1498": {
+        "type": 148,
+        "rarity": 6
+    },
+    "1499": {
+        "type": 149,
+        "rarity": 6
+    },
+    "1500": {
+        "type": 150,
+        "rarity": 6
+    },
+    "1501": {
+        "type": 151,
+        "rarity": 6
+    },
+    "1502": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1503": {
+        "type": 153,
+        "rarity": 6
+    },
+    "1504": {
+        "type": 154,
+        "rarity": 6
+    },
+    "1505": {
+        "type": 155,
+        "rarity": 6
+    },
+    "1506": {
+        "type": 156,
+        "rarity": 6
+    },
+    "1507": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1508": {
+        "type": 158,
+        "rarity": 6
+    },
+    "1509": {
+        "type": 159,
+        "rarity": 6
+    },
+    "1510": {
+        "type": 160,
+        "rarity": 6
+    },
+    "1511": {
+        "type": 161,
+        "rarity": 6
+    },
+    "1512": {
+        "type": 162,
+        "rarity": 6
+    },
+    "1513": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1514": {
+        "type": 164,
+        "rarity": 6
+    },
+    "1515": {
+        "type": 165,
+        "rarity": 6
+    },
+    "1516": {
+        "type": 166,
+        "rarity": 6
+    },
+    "1517": {
+        "type": 167,
+        "rarity": 6
+    },
+    "1518": {
+        "type": 168,
+        "rarity": 6
+    },
+    "1519": {
+        "type": 169,
+        "rarity": 6
+    },
+    "1520": {
+        "type": 170,
+        "rarity": 6
+    },
+    "1521": {
+        "type": 171,
+        "rarity": 6
+    },
+    "1522": {
+        "type": 172,
+        "rarity": 6
+    },
+    "1523": {
+        "type": 173,
+        "rarity": 6
+    },
+    "1524": {
+        "type": 174,
+        "rarity": 6
+    },
+    "1525": {
+        "type": 175,
+        "rarity": 6
+    },
+    "1526": {
+        "type": 176,
+        "rarity": 6
+    },
+    "1527": {
+        "type": 177,
+        "rarity": 6
+    },
+    "1528": {
+        "type": 178,
+        "rarity": 6
+    },
+    "1529": {
+        "type": 179,
+        "rarity": 6
+    },
+    "1530": {
+        "type": 135,
+        "rarity": 7
+    },
+    "1531": {
+        "type": 136,
+        "rarity": 7
+    },
+    "1532": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1533": {
+        "type": 138,
+        "rarity": 7
+    },
+    "1534": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1535": {
+        "type": 140,
+        "rarity": 7
+    },
+    "1536": {
+        "type": 141,
+        "rarity": 7
+    },
+    "1537": {
+        "type": 142,
+        "rarity": 7
+    },
+    "1538": {
+        "type": 143,
+        "rarity": 7
+    },
+    "1539": {
+        "type": 144,
+        "rarity": 7
+    },
+    "1540": {
+        "type": 145,
+        "rarity": 7
+    },
+    "1541": {
+        "type": 146,
+        "rarity": 7
+    },
+    "1542": {
+        "type": 147,
+        "rarity": 7
+    },
+    "1543": {
+        "type": 148,
+        "rarity": 7
+    },
+    "1544": {
+        "type": 149,
+        "rarity": 7
+    },
+    "1545": {
+        "type": 150,
+        "rarity": 7
+    },
+    "1546": {
+        "type": 151,
+        "rarity": 7
+    },
+    "1547": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1548": {
+        "type": 153,
+        "rarity": 7
+    },
+    "1549": {
+        "type": 154,
+        "rarity": 7
+    },
+    "1550": {
+        "type": 155,
+        "rarity": 7
+    },
+    "1551": {
+        "type": 156,
+        "rarity": 7
+    },
+    "1552": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1553": {
+        "type": 158,
+        "rarity": 7
+    },
+    "1554": {
+        "type": 159,
+        "rarity": 7
+    },
+    "1555": {
+        "type": 160,
+        "rarity": 7
+    },
+    "1556": {
+        "type": 161,
+        "rarity": 7
+    },
+    "1557": {
+        "type": 162,
+        "rarity": 7
+    },
+    "1558": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1559": {
+        "type": 164,
+        "rarity": 7
+    },
+    "1560": {
+        "type": 165,
+        "rarity": 7
+    },
+    "1561": {
+        "type": 166,
+        "rarity": 7
+    },
+    "1562": {
+        "type": 167,
+        "rarity": 7
+    },
+    "1563": {
+        "type": 168,
+        "rarity": 7
+    },
+    "1564": {
+        "type": 169,
+        "rarity": 7
+    },
+    "1565": {
+        "type": 170,
+        "rarity": 7
+    },
+    "1566": {
+        "type": 171,
+        "rarity": 7
+    },
+    "1567": {
+        "type": 172,
+        "rarity": 7
+    },
+    "1568": {
+        "type": 173,
+        "rarity": 7
+    },
+    "1569": {
+        "type": 174,
+        "rarity": 7
+    },
+    "1570": {
+        "type": 175,
+        "rarity": 7
+    },
+    "1571": {
+        "type": 176,
+        "rarity": 7
+    },
+    "1572": {
+        "type": 177,
+        "rarity": 7
+    },
+    "1573": {
+        "type": 178,
+        "rarity": 7
+    },
+    "1574": {
+        "type": 179,
+        "rarity": 7
+    },
+    "1575": {
+        "type": 135,
+        "rarity": 8
+    },
+    "1576": {
+        "type": 136,
+        "rarity": 8
+    },
+    "1577": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1578": {
+        "type": 138,
+        "rarity": 8
+    },
+    "1579": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1580": {
+        "type": 140,
+        "rarity": 8
+    },
+    "1581": {
+        "type": 141,
+        "rarity": 8
+    },
+    "1582": {
+        "type": 142,
+        "rarity": 8
+    },
+    "1583": {
+        "type": 143,
+        "rarity": 8
+    },
+    "1584": {
+        "type": 144,
+        "rarity": 8
+    },
+    "1585": {
+        "type": 145,
+        "rarity": 8
+    },
+    "1586": {
+        "type": 146,
+        "rarity": 8
+    },
+    "1587": {
+        "type": 147,
+        "rarity": 8
+    },
+    "1588": {
+        "type": 148,
+        "rarity": 8
+    },
+    "1589": {
+        "type": 149,
+        "rarity": 8
+    },
+    "1590": {
+        "type": 150,
+        "rarity": 8
+    },
+    "1591": {
+        "type": 151,
+        "rarity": 8
+    },
+    "1592": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1593": {
+        "type": 153,
+        "rarity": 8
+    },
+    "1594": {
+        "type": 154,
+        "rarity": 8
+    },
+    "1595": {
+        "type": 155,
+        "rarity": 8
+    },
+    "1596": {
+        "type": 156,
+        "rarity": 8
+    },
+    "1597": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1598": {
+        "type": 158,
+        "rarity": 8
+    },
+    "1599": {
+        "type": 159,
+        "rarity": 8
+    },
+    "1600": {
+        "type": 160,
+        "rarity": 8
+    },
+    "1601": {
+        "type": 161,
+        "rarity": 8
+    },
+    "1602": {
+        "type": 162,
+        "rarity": 8
+    },
+    "1603": {
+        "type": 163,
+        "rarity": 9
+    },
+    "1604": {
+        "type": 164,
+        "rarity": 8
+    },
+    "1605": {
+        "type": 165,
+        "rarity": 8
+    },
+    "1606": {
+        "type": 166,
+        "rarity": 8
+    },
+    "1607": {
+        "type": 167,
+        "rarity": 8
+    },
+    "1608": {
+        "type": 168,
+        "rarity": 8
+    },
+    "1609": {
+        "type": 169,
+        "rarity": 8
+    },
+    "1610": {
+        "type": 170,
+        "rarity": 8
+    },
+    "1611": {
+        "type": 171,
+        "rarity": 8
+    },
+    "1612": {
+        "type": 172,
+        "rarity": 8
+    },
+    "1613": {
+        "type": 173,
+        "rarity": 8
+    },
+    "1614": {
+        "type": 174,
+        "rarity": 8
+    },
+    "1615": {
+        "type": 175,
+        "rarity": 8
+    },
+    "1616": {
+        "type": 176,
+        "rarity": 8
+    },
+    "1617": {
+        "type": 177,
+        "rarity": 8
+    },
+    "1618": {
+        "type": 178,
+        "rarity": 8
+    },
+    "1619": {
+        "type": 179,
+        "rarity": 8
+    },
+    "1620": {
+        "type": 180,
+        "rarity": 0
+    },
+    "1621": {
+        "type": 181,
+        "rarity": 0
+    },
+    "1622": {
+        "type": 182,
+        "rarity": 0
+    },
+    "1623": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1624": {
+        "type": 184,
+        "rarity": 0
+    },
+    "1625": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1626": {
+        "type": 186,
+        "rarity": 0
+    },
+    "1627": {
+        "type": 187,
+        "rarity": 0
+    },
+    "1628": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1629": {
+        "type": 189,
+        "rarity": 0
+    },
+    "1630": {
+        "type": 190,
+        "rarity": 0
+    },
+    "1631": {
+        "type": 180,
+        "rarity": 1
+    },
+    "1632": {
+        "type": 181,
+        "rarity": 1
+    },
+    "1633": {
+        "type": 182,
+        "rarity": 1
+    },
+    "1634": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1635": {
+        "type": 184,
+        "rarity": 1
+    },
+    "1636": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1637": {
+        "type": 186,
+        "rarity": 1
+    },
+    "1638": {
+        "type": 187,
+        "rarity": 1
+    },
+    "1639": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1640": {
+        "type": 189,
+        "rarity": 1
+    },
+    "1641": {
+        "type": 190,
+        "rarity": 1
+    },
+    "1642": {
+        "type": 180,
+        "rarity": 2
+    },
+    "1643": {
+        "type": 181,
+        "rarity": 2
+    },
+    "1644": {
+        "type": 182,
+        "rarity": 2
+    },
+    "1645": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1646": {
+        "type": 184,
+        "rarity": 2
+    },
+    "1647": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1648": {
+        "type": 186,
+        "rarity": 2
+    },
+    "1649": {
+        "type": 187,
+        "rarity": 2
+    },
+    "1650": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1651": {
+        "type": 189,
+        "rarity": 2
+    },
+    "1652": {
+        "type": 190,
+        "rarity": 2
+    },
+    "1653": {
+        "type": 180,
+        "rarity": 3
+    },
+    "1654": {
+        "type": 181,
+        "rarity": 3
+    },
+    "1655": {
+        "type": 182,
+        "rarity": 3
+    },
+    "1656": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1657": {
+        "type": 184,
+        "rarity": 3
+    },
+    "1658": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1659": {
+        "type": 186,
+        "rarity": 3
+    },
+    "1660": {
+        "type": 187,
+        "rarity": 3
+    },
+    "1661": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1662": {
+        "type": 189,
+        "rarity": 3
+    },
+    "1663": {
+        "type": 190,
+        "rarity": 3
+    },
+    "1664": {
+        "type": 180,
+        "rarity": 4
+    },
+    "1665": {
+        "type": 181,
+        "rarity": 4
+    },
+    "1666": {
+        "type": 182,
+        "rarity": 4
+    },
+    "1667": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1668": {
+        "type": 184,
+        "rarity": 4
+    },
+    "1669": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1670": {
+        "type": 186,
+        "rarity": 4
+    },
+    "1671": {
+        "type": 187,
+        "rarity": 4
+    },
+    "1672": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1673": {
+        "type": 189,
+        "rarity": 4
+    },
+    "1674": {
+        "type": 190,
+        "rarity": 4
+    },
+    "1675": {
+        "type": 180,
+        "rarity": 5
+    },
+    "1676": {
+        "type": 181,
+        "rarity": 5
+    },
+    "1677": {
+        "type": 182,
+        "rarity": 5
+    },
+    "1678": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1679": {
+        "type": 184,
+        "rarity": 5
+    },
+    "1680": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1681": {
+        "type": 186,
+        "rarity": 5
+    },
+    "1682": {
+        "type": 187,
+        "rarity": 5
+    },
+    "1683": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1684": {
+        "type": 189,
+        "rarity": 5
+    },
+    "1685": {
+        "type": 190,
+        "rarity": 5
+    },
+    "1686": {
+        "type": 180,
+        "rarity": 6
+    },
+    "1687": {
+        "type": 181,
+        "rarity": 6
+    },
+    "1688": {
+        "type": 182,
+        "rarity": 6
+    },
+    "1689": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1690": {
+        "type": 184,
+        "rarity": 6
+    },
+    "1691": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1692": {
+        "type": 186,
+        "rarity": 6
+    },
+    "1693": {
+        "type": 187,
+        "rarity": 6
+    },
+    "1694": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1695": {
+        "type": 189,
+        "rarity": 6
+    },
+    "1696": {
+        "type": 190,
+        "rarity": 6
+    },
+    "1697": {
+        "type": 180,
+        "rarity": 7
+    },
+    "1698": {
+        "type": 181,
+        "rarity": 7
+    },
+    "1699": {
+        "type": 182,
+        "rarity": 7
+    },
+    "1700": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1701": {
+        "type": 184,
+        "rarity": 7
+    },
+    "1702": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1703": {
+        "type": 186,
+        "rarity": 7
+    },
+    "1704": {
+        "type": 187,
+        "rarity": 7
+    },
+    "1705": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1706": {
+        "type": 189,
+        "rarity": 7
+    },
+    "1707": {
+        "type": 190,
+        "rarity": 7
+    },
+    "1708": {
+        "type": 180,
+        "rarity": 8
+    },
+    "1709": {
+        "type": 181,
+        "rarity": 8
+    },
+    "1710": {
+        "type": 182,
+        "rarity": 8
+    },
+    "1711": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1712": {
+        "type": 184,
+        "rarity": 8
+    },
+    "1713": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1714": {
+        "type": 186,
+        "rarity": 8
+    },
+    "1715": {
+        "type": 187,
+        "rarity": 8
+    },
+    "1716": {
+        "type": 3,
+        "rarity": 0
+    },
+    "1717": {
+        "type": 189,
+        "rarity": 8
+    },
+    "1718": {
+        "type": 190,
+        "rarity": 8
+    }
+}
