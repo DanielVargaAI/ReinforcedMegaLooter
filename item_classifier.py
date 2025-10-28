@@ -16,7 +16,7 @@ from PIL import Image
 # Load item labels
 with open("item_mapper.json", "r") as f:
     item_labels = json.load(f)
-num_classes = 191  # Number of item categories
+num_classes = 192  # Number of item categories
 image_size = (100, 100)  # Size of the input images
 # Load images and labels
 images = []
@@ -47,7 +47,7 @@ val_generator = val_datagen.flow(X_val, y_val, batch_size=32)
 
 # Build the CNN model
 model = models.Sequential([
-    layers.Conv2D(32, (3, 3), activation='relu', input_shape=(100, 100, 4)),
+    layers.Conv2D(32, (3, 3), activation='relu', input_shape=(100, 100, 3)),
     layers.MaxPooling2D((2, 2)),
     layers.Conv2D(64, (3, 3), activation='relu'),
     layers.MaxPooling2D((2, 2)),

@@ -1,2 +1,5 @@
+Actual: 102, Predicted: 75
+Actual: 99, Predicted: 116
+Actual: 87, Predicted: 4
 Actual: 2, Predicted: 144
-Actual: 94, Predicted: 102
+Actual: 115, Predicted: 83

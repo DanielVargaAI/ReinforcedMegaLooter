@@ -21,10 +21,10 @@
         ]
     },
     "3": {
-        "name": "Unknown Item",
+        "name": "Merchant Upgrade",
         "rarity": 0,
         "set": [
-            ""
+            "Essential"
         ]
     },
     "4": {
@@ -127,10 +127,10 @@
         ]
     },
     "18": {
-        "name": "Unknown Item",
+        "name": "Insightus",
         "rarity": 0,
         "set": [
-            ""
+            "Essential"
         ]
     },
     "19": {
@@ -205,10 +205,10 @@
         ]
     },
     "29": {
-        "name": "Unknown Item",
+        "name": "Hunter's Necklace",
         "rarity": 0,
         "set": [
-            ""
+            "Hunter"
         ]
     },
     "30": {
@@ -339,10 +339,10 @@
         ]
     },
     "48": {
-        "name": "Unknown Item",
+        "name": "Bastolic's Guardian",
         "rarity": 0,
         "set": [
-            ""
+            "Bastolic"
         ]
     },
     "49": {
@@ -489,10 +489,10 @@
         ]
     },
     "69": {
-        "name": "Unknown Item",
+        "name": "Darkwood Plates",
         "rarity": 0,
         "set": [
-            ""
+            "Darkness", "Wood"
         ]
     },
     "70": {
@@ -574,10 +574,10 @@
         ]
     },
     "81": {
-        "name": "Unknown Item",
+        "name": "Unchained Ring",
         "rarity": 0,
         "set": [
-            ""
+            "Unchained"
         ]
     },
     "82": {
@@ -658,10 +658,10 @@
         ]
     },
     "93": {
-        "name": "Unknown Item",
+        "name": "Silver Heart",
         "rarity": 0,
         "set": [
-            ""
+            "Silver"
         ]
     },
     "94": {
@@ -798,10 +798,10 @@
         ]
     },
     "113": {
-        "name": "Unknown Item",
+        "name": "Iron Eater",
         "rarity": 0,
         "set": [
-            ""
+            "Generic"
         ]
     },
     "114": {
@@ -828,10 +828,10 @@
         ]
     },
     "117": {
-        "name": "Unknown Item",
+        "name": "Ashcrow",
         "rarity": 0,
         "set": [
-            ""
+            "Chromalure"
         ]
     },
     "118": {
@@ -972,10 +972,10 @@
         ]
     },
     "137": {
-        "name": "Unknown Item",
+        "name": "Witchcraft Leggings",
         "rarity": 0,
         "set": [
-            ""
+            "Cursed"
         ]
     },
     "138": {
@@ -986,10 +986,10 @@
         ]
     },
     "139": {
-        "name": "Unknown Item",
+        "name": "Cursed Necklace",
         "rarity": 0,
         "set": [
-            ""
+            "Cursed"
         ]
     },
     "140": {
@@ -1078,10 +1078,10 @@
         ]
     },
     "152": {
-        "name": "Unknown Item",
+        "name": "Black Oath",
         "rarity": 0,
         "set": [
-            ""
+            "Cursed", "Warrior"
         ]
     },
     "153": {
@@ -1114,10 +1114,10 @@
         ]
     },
     "157": {
-        "name": "Unknown Item",
+        "name": "Vampiric Helmet",
         "rarity": 0,
         "set": [
-            ""
+            "Vampiric"
         ]
     },
     "158": {
@@ -1298,10 +1298,10 @@
         ]
     },
     "183": {
-        "name": "Unknown Item",
+        "name": "Celestial Sabatons",
         "rarity": 0,
         "set": [
-            ""
+            "Celestial"
         ]
     },
     "184": {
@@ -1312,10 +1312,10 @@
         ]
     },
     "185": {
-        "name": "Unknown Item",
+        "name": "Celestial Leggings",
         "rarity": 0,
         "set": [
-            ""
+            "Celestial"
         ]
     },
     "186": {

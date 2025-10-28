@@ -21,7 +21,7 @@ for item in items_data.keys():
         else:
             actual_rarity = rarity
         item_mapper[new_id] = {
-            "type": old_id if items_data[item]["name"] != "Unknown Item" else 3,
+            "type": old_id if items_data[item]["name"] != "Unknown Item" else 191,
             "rarity": actual_rarity
         }
 

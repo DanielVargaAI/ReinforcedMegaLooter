@@ -37,5 +37,3 @@ def snip_library_slots():
 
 if __name__ == "__main__":
     snip_library_slots()
-
-# TODO: On Page 5 snip out only the new items (last 2 rows)

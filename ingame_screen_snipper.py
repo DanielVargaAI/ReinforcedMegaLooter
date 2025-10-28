@@ -49,7 +49,7 @@ def screenshot_ingame():
 
 
 if __name__ == "__main__":
-    # screenshot_path = "Screenshots\\InGame\\MitItems.png"
+    # screenshot_path = "Screenshots\\InGame\\InGame_12.png"
     # snip_ingame_slots(screenshot_path)
 
     screenshot_ingame()
