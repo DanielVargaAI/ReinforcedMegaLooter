@@ -11,6 +11,7 @@ import pytesseract  # You will need this (and Tesseract-OCR)
                     # for the OCR method: pip install pytesseract
 import re
 
+
 class GameValueReader:
     """
     Reads specific game values from a screen observation (numpy array)
@@ -22,8 +23,10 @@ class GameValueReader:
         # Define the screen regions (ROIs) for the values you want to read.
         # These are placeholder coordinates [y1:y2, x1:x2].
         # You MUST find these coordinates yourself (e.g., in an image editor).
-        self.roi_floor = (50, 100, 200, 300)      # Example ROI for "1"
-        self.roi_enemies = (50, 100, 700, 800)    # Example ROI for "4"
+
+        # 578, 31  - 916, 67
+        self.roi_floor = (578, 916, 31, 67)      # Example ROI for "1"
+        self.roi_enemies = (578, 31, 916, 67)    # Example ROI for "4"
         
         # --- Tesseract Config ---
         # Whitelist numbers.
@@ -56,6 +59,9 @@ class GameValueReader:
         try:
             # --- Read Floor ---
             roi_f_img = observation[self.roi_floor[0]:self.roi_floor[1], self.roi_floor[2]:self.roi_floor[3]]
+
+            print(observation)
+
             floor_text = self._run_ocr(roi_f_img)
             
             # Use regex to find the first number (the floor count)
@@ -79,11 +85,15 @@ class GameValueReader:
         
         return current_floor, current_enemies
 
+
 # --- Example Usage (if you were to run this file) ---
 if __name__ == "__main__":
     # Create a dummy observation image (e.g., 800x600, 3 channels)
     # In your real code, this 'dummy_screen' would come from your env.
-    dummy_screen = np.zeros((800, 600, 3), dtype=np.uint8)
+    # dummy_screen = np.zeros((800, 600, 3), dtype=np.uint8)
+
+    # open Screen.png and use it as dummy_screen
+    dummy_screen = cv2.imread("Screen.png")
 
     # You would need to paste your game screenshot data here
     # For example, pretend 'dummy_screen' is your game capture.

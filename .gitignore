@@ -210,3 +210,5 @@ __marimo__/
 snipped_images/
 Screenshots/test
 Screenshots/InGame
+tensorboard_logs
+ppo_custom_env.zip
